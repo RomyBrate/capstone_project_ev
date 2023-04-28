@@ -1,0 +1,460 @@
+manufacturer,model,tsn,year,fuel_type,federal_state,new_registration
+BMW,"i3s,i3",BSI,2017,E,Baden-Württemberg,471
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Baden-Württemberg,46
+DAIMLER (D),forfour ed,GON,2017,E,Baden-Württemberg,217
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Baden-Württemberg,147
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Baden-Württemberg,507
+DAIMLER (D),B 250 e,EWE,2017,E,Baden-Württemberg,157
+FORD (D),Focus Electric,BFW,2017,E,Baden-Württemberg,2
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Baden-Württemberg,102
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Baden-Württemberg,59
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Baden-Württemberg,81
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Baden-Württemberg,5
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Baden-Württemberg,29
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Baden-Württemberg,86
+OPEL,Ampera-e,AGT,2017,E,Baden-Württemberg,2
+OPEL,Ampera-e,BLA,2017,E,Baden-Württemberg,10
+PEUGEOT (F),iOn,AOG,2017,E,Baden-Württemberg,55
+RENAULT (F),ZOE,AZX,2017,E,Baden-Württemberg,946
+TESLA (USA),Model S,AAJ,2017,E,Baden-Württemberg,49
+TESLA (USA),Model S,AAK,2017,E,Baden-Württemberg,226
+TESLA (USA),Model S,AAL,2017,E,Baden-Württemberg,32
+TESLA (USA),Model X,AAM,2017,E,Baden-Württemberg,93
+TESLA (USA),Model X,AAN,2017,E,Baden-Württemberg,18
+TESLA (USA),Model X,AAO,2017,E,Baden-Württemberg,14
+TESLA (USA),Model X,AAP,2017,E,Baden-Württemberg,1
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Baden-Württemberg,35
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Baden-Württemberg,440
+VOLKSWAGEN (D),UP!,BKY,2017,E,Baden-Württemberg,202
+BMW,"i3s,i3",BSI,2017,E,Bayern,1024
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Bayern,22
+DAIMLER (D),forfour ed,GON,2017,E,Bayern,126
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Bayern,145
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Bayern,339
+DAIMLER (D),B 250 e,EWE,2017,E,Bayern,101
+FORD (D),Focus Electric,BFW,2017,E,Bayern,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Bayern,276
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Bayern,21
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Bayern,42
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Bayern,12
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Bayern,39
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Bayern,147
+OPEL,Ampera-e,AGT,2017,E,Bayern,10
+OPEL,Ampera-e,BLA,2017,E,Bayern,10
+PEUGEOT (F),iOn,AOG,2017,E,Bayern,72
+RENAULT (F),ZOE,AZX,2017,E,Bayern,1106
+TESLA (USA),Model S,AAJ,2017,E,Bayern,129
+TESLA (USA),Model S,AAK,2017,E,Bayern,601
+TESLA (USA),Model S,AAL,2017,E,Bayern,73
+TESLA (USA),Model X,AAM,2017,E,Bayern,337
+TESLA (USA),Model X,AAN,2017,E,Bayern,65
+TESLA (USA),Model X,AAO,2017,E,Bayern,53
+TESLA (USA),Model X,AAP,2017,E,Bayern,2
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Bayern,41
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Bayern,445
+VOLKSWAGEN (D),UP!,BKY,2017,E,Bayern,172
+BMW,"i3s,i3",BSI,2017,E,Berlin,101
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Berlin,1
+DAIMLER (D),forfour ed,GON,2017,E,Berlin,19
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Berlin,42
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Berlin,80
+DAIMLER (D),B 250 e,EWE,2017,E,Berlin,83
+FORD (D),Focus Electric,BFW,2017,E,Berlin,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Berlin,15
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Berlin,1
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Berlin,1
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Berlin,1
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Berlin,3
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Berlin,80
+OPEL,Ampera-e,AGT,2017,E,Berlin,3
+OPEL,Ampera-e,BLA,2017,E,Berlin,0
+PEUGEOT (F),iOn,AOG,2017,E,Berlin,3
+RENAULT (F),ZOE,AZX,2017,E,Berlin,44
+TESLA (USA),Model S,AAJ,2017,E,Berlin,17
+TESLA (USA),Model S,AAK,2017,E,Berlin,34
+TESLA (USA),Model S,AAL,2017,E,Berlin,8
+TESLA (USA),Model X,AAM,2017,E,Berlin,38
+TESLA (USA),Model X,AAN,2017,E,Berlin,10
+TESLA (USA),Model X,AAO,2017,E,Berlin,6
+TESLA (USA),Model X,AAP,2017,E,Berlin,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Berlin,9
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Berlin,40
+VOLKSWAGEN (D),UP!,BKY,2017,E,Berlin,23
+BMW,"i3s,i3",BSI,2017,E,Brandenburg,56
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Brandenburg,2
+DAIMLER (D),forfour ed,GON,2017,E,Brandenburg,16
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Brandenburg,14
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Brandenburg,32
+DAIMLER (D),B 250 e,EWE,2017,E,Brandenburg,9
+FORD (D),Focus Electric,BFW,2017,E,Brandenburg,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Brandenburg,14
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Brandenburg,5
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Brandenburg,7
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Brandenburg,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Brandenburg,1
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Brandenburg,16
+OPEL,Ampera-e,AGT,2017,E,Brandenburg,3
+OPEL,Ampera-e,BLA,2017,E,Brandenburg,3
+PEUGEOT (F),iOn,AOG,2017,E,Brandenburg,3
+RENAULT (F),ZOE,AZX,2017,E,Brandenburg,58
+TESLA (USA),Model S,AAJ,2017,E,Brandenburg,11
+TESLA (USA),Model S,AAK,2017,E,Brandenburg,34
+TESLA (USA),Model S,AAL,2017,E,Brandenburg,1
+TESLA (USA),Model X,AAM,2017,E,Brandenburg,16
+TESLA (USA),Model X,AAN,2017,E,Brandenburg,4
+TESLA (USA),Model X,AAO,2017,E,Brandenburg,0
+TESLA (USA),Model X,AAP,2017,E,Brandenburg,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Brandenburg,4
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Brandenburg,45
+VOLKSWAGEN (D),UP!,BKY,2017,E,Brandenburg,26
+BMW,"i3s,i3",BSI,2017,E,Bremen,9
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Bremen,0
+DAIMLER (D),forfour ed,GON,2017,E,Bremen,7
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Bremen,3
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Bremen,10
+DAIMLER (D),B 250 e,EWE,2017,E,Bremen,7
+FORD (D),Focus Electric,BFW,2017,E,Bremen,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Bremen,1
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Bremen,0
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Bremen,1
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Bremen,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Bremen,0
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Bremen,0
+OPEL,Ampera-e,AGT,2017,E,Bremen,0
+OPEL,Ampera-e,BLA,2017,E,Bremen,0
+PEUGEOT (F),iOn,AOG,2017,E,Bremen,0
+RENAULT (F),ZOE,AZX,2017,E,Bremen,21
+TESLA (USA),Model S,AAJ,2017,E,Bremen,0
+TESLA (USA),Model S,AAK,2017,E,Bremen,5
+TESLA (USA),Model S,AAL,2017,E,Bremen,2
+TESLA (USA),Model X,AAM,2017,E,Bremen,2
+TESLA (USA),Model X,AAN,2017,E,Bremen,0
+TESLA (USA),Model X,AAO,2017,E,Bremen,1
+TESLA (USA),Model X,AAP,2017,E,Bremen,1
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Bremen,0
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Bremen,9
+VOLKSWAGEN (D),UP!,BKY,2017,E,Bremen,7
+BMW,"i3s,i3",BSI,2017,E,Hamburg,47
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Hamburg,1
+DAIMLER (D),forfour ed,GON,2017,E,Hamburg,21
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Hamburg,44
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Hamburg,130
+DAIMLER (D),B 250 e,EWE,2017,E,Hamburg,10
+FORD (D),Focus Electric,BFW,2017,E,Hamburg,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Hamburg,17
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Hamburg,2
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Hamburg,4
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Hamburg,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Hamburg,5
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Hamburg,20
+OPEL,Ampera-e,AGT,2017,E,Hamburg,2
+OPEL,Ampera-e,BLA,2017,E,Hamburg,3
+PEUGEOT (F),iOn,AOG,2017,E,Hamburg,4
+RENAULT (F),ZOE,AZX,2017,E,Hamburg,85
+TESLA (USA),Model S,AAJ,2017,E,Hamburg,14
+TESLA (USA),Model S,AAK,2017,E,Hamburg,40
+TESLA (USA),Model S,AAL,2017,E,Hamburg,6
+TESLA (USA),Model X,AAM,2017,E,Hamburg,21
+TESLA (USA),Model X,AAN,2017,E,Hamburg,5
+TESLA (USA),Model X,AAO,2017,E,Hamburg,4
+TESLA (USA),Model X,AAP,2017,E,Hamburg,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Hamburg,0
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Hamburg,101
+VOLKSWAGEN (D),UP!,BKY,2017,E,Hamburg,22
+BMW,"i3s,i3",BSI,2017,E,Hessen,179
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Hessen,12
+DAIMLER (D),forfour ed,GON,2017,E,Hessen,44
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Hessen,36
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Hessen,159
+DAIMLER (D),B 250 e,EWE,2017,E,Hessen,23
+FORD (D),Focus Electric,BFW,2017,E,Hessen,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Hessen,51
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Hessen,379
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Hessen,1713
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Hessen,3
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Hessen,12
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Hessen,41
+OPEL,Ampera-e,AGT,2017,E,Hessen,4
+OPEL,Ampera-e,BLA,2017,E,Hessen,36
+PEUGEOT (F),iOn,AOG,2017,E,Hessen,16
+RENAULT (F),ZOE,AZX,2017,E,Hessen,338
+TESLA (USA),Model S,AAJ,2017,E,Hessen,46
+TESLA (USA),Model S,AAK,2017,E,Hessen,139
+TESLA (USA),Model S,AAL,2017,E,Hessen,9
+TESLA (USA),Model X,AAM,2017,E,Hessen,72
+TESLA (USA),Model X,AAN,2017,E,Hessen,11
+TESLA (USA),Model X,AAO,2017,E,Hessen,7
+TESLA (USA),Model X,AAP,2017,E,Hessen,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Hessen,14
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Hessen,191
+VOLKSWAGEN (D),UP!,BKY,2017,E,Hessen,70
+BMW,"i3s,i3",BSI,2017,E,Mecklenburg-Vorpommern,21
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Mecklenburg-Vorpommern,4
+DAIMLER (D),forfour ed,GON,2017,E,Mecklenburg-Vorpommern,5
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Mecklenburg-Vorpommern,4
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Mecklenburg-Vorpommern,17
+DAIMLER (D),B 250 e,EWE,2017,E,Mecklenburg-Vorpommern,2
+FORD (D),Focus Electric,BFW,2017,E,Mecklenburg-Vorpommern,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Mecklenburg-Vorpommern,5
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Mecklenburg-Vorpommern,1
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Mecklenburg-Vorpommern,3
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Mecklenburg-Vorpommern,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Mecklenburg-Vorpommern,1
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Mecklenburg-Vorpommern,3
+OPEL,Ampera-e,AGT,2017,E,Mecklenburg-Vorpommern,2
+OPEL,Ampera-e,BLA,2017,E,Mecklenburg-Vorpommern,3
+PEUGEOT (F),iOn,AOG,2017,E,Mecklenburg-Vorpommern,4
+RENAULT (F),ZOE,AZX,2017,E,Mecklenburg-Vorpommern,19
+TESLA (USA),Model S,AAJ,2017,E,Mecklenburg-Vorpommern,4
+TESLA (USA),Model S,AAK,2017,E,Mecklenburg-Vorpommern,11
+TESLA (USA),Model S,AAL,2017,E,Mecklenburg-Vorpommern,0
+TESLA (USA),Model X,AAM,2017,E,Mecklenburg-Vorpommern,7
+TESLA (USA),Model X,AAN,2017,E,Mecklenburg-Vorpommern,1
+TESLA (USA),Model X,AAO,2017,E,Mecklenburg-Vorpommern,2
+TESLA (USA),Model X,AAP,2017,E,Mecklenburg-Vorpommern,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Mecklenburg-Vorpommern,2
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Mecklenburg-Vorpommern,25
+VOLKSWAGEN (D),UP!,BKY,2017,E,Mecklenburg-Vorpommern,4
+BMW,"i3s,i3",BSI,2017,E,Niedersachsen,138
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Niedersachsen,20
+DAIMLER (D),forfour ed,GON,2017,E,Niedersachsen,59
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Niedersachsen,48
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Niedersachsen,146
+DAIMLER (D),B 250 e,EWE,2017,E,Niedersachsen,21
+FORD (D),Focus Electric,BFW,2017,E,Niedersachsen,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Niedersachsen,48
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Niedersachsen,72
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Niedersachsen,182
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Niedersachsen,2
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Niedersachsen,13
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Niedersachsen,48
+OPEL,Ampera-e,AGT,2017,E,Niedersachsen,3
+OPEL,Ampera-e,BLA,2017,E,Niedersachsen,9
+PEUGEOT (F),iOn,AOG,2017,E,Niedersachsen,12
+RENAULT (F),ZOE,AZX,2017,E,Niedersachsen,291
+TESLA (USA),Model S,AAJ,2017,E,Niedersachsen,34
+TESLA (USA),Model S,AAK,2017,E,Niedersachsen,107
+TESLA (USA),Model S,AAL,2017,E,Niedersachsen,11
+TESLA (USA),Model X,AAM,2017,E,Niedersachsen,33
+TESLA (USA),Model X,AAN,2017,E,Niedersachsen,10
+TESLA (USA),Model X,AAO,2017,E,Niedersachsen,9
+TESLA (USA),Model X,AAP,2017,E,Niedersachsen,1
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Niedersachsen,42
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Niedersachsen,541
+VOLKSWAGEN (D),UP!,BKY,2017,E,Niedersachsen,282
+BMW,"i3s,i3",BSI,2017,E,Nordrhein-Westfalen,390
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Nordrhein-Westfalen,47
+DAIMLER (D),forfour ed,GON,2017,E,Nordrhein-Westfalen,136
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Nordrhein-Westfalen,162
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Nordrhein-Westfalen,500
+DAIMLER (D),B 250 e,EWE,2017,E,Nordrhein-Westfalen,59
+FORD (D),Focus Electric,BFW,2017,E,Nordrhein-Westfalen,17
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Nordrhein-Westfalen,187
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Nordrhein-Westfalen,47
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Nordrhein-Westfalen,233
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Nordrhein-Westfalen,4
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Nordrhein-Westfalen,57
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Nordrhein-Westfalen,305
+OPEL,Ampera-e,AGT,2017,E,Nordrhein-Westfalen,17
+OPEL,Ampera-e,BLA,2017,E,Nordrhein-Westfalen,18
+PEUGEOT (F),iOn,AOG,2017,E,Nordrhein-Westfalen,60
+RENAULT (F),ZOE,AZX,2017,E,Nordrhein-Westfalen,840
+TESLA (USA),Model S,AAJ,2017,E,Nordrhein-Westfalen,86
+TESLA (USA),Model S,AAK,2017,E,Nordrhein-Westfalen,242
+TESLA (USA),Model S,AAL,2017,E,Nordrhein-Westfalen,21
+TESLA (USA),Model X,AAM,2017,E,Nordrhein-Westfalen,92
+TESLA (USA),Model X,AAN,2017,E,Nordrhein-Westfalen,24
+TESLA (USA),Model X,AAO,2017,E,Nordrhein-Westfalen,19
+TESLA (USA),Model X,AAP,2017,E,Nordrhein-Westfalen,4
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Nordrhein-Westfalen,63
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Nordrhein-Westfalen,456
+VOLKSWAGEN (D),UP!,BKY,2017,E,Nordrhein-Westfalen,136
+BMW,"i3s,i3",BSI,2017,E,Rheinland-Pfalz,100
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Rheinland-Pfalz,6
+DAIMLER (D),forfour ed,GON,2017,E,Rheinland-Pfalz,30
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Rheinland-Pfalz,31
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Rheinland-Pfalz,89
+DAIMLER (D),B 250 e,EWE,2017,E,Rheinland-Pfalz,10
+FORD (D),Focus Electric,BFW,2017,E,Rheinland-Pfalz,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Rheinland-Pfalz,41
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Rheinland-Pfalz,10
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Rheinland-Pfalz,9
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Rheinland-Pfalz,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Rheinland-Pfalz,8
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Rheinland-Pfalz,11
+OPEL,Ampera-e,AGT,2017,E,Rheinland-Pfalz,5
+OPEL,Ampera-e,BLA,2017,E,Rheinland-Pfalz,7
+PEUGEOT (F),iOn,AOG,2017,E,Rheinland-Pfalz,13
+RENAULT (F),ZOE,AZX,2017,E,Rheinland-Pfalz,147
+TESLA (USA),Model S,AAJ,2017,E,Rheinland-Pfalz,20
+TESLA (USA),Model S,AAK,2017,E,Rheinland-Pfalz,67
+TESLA (USA),Model S,AAL,2017,E,Rheinland-Pfalz,7
+TESLA (USA),Model X,AAM,2017,E,Rheinland-Pfalz,24
+TESLA (USA),Model X,AAN,2017,E,Rheinland-Pfalz,2
+TESLA (USA),Model X,AAO,2017,E,Rheinland-Pfalz,3
+TESLA (USA),Model X,AAP,2017,E,Rheinland-Pfalz,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Rheinland-Pfalz,15
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Rheinland-Pfalz,90
+VOLKSWAGEN (D),UP!,BKY,2017,E,Rheinland-Pfalz,19
+BMW,"i3s,i3",BSI,2017,E,Saarland,25
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Saarland,3
+DAIMLER (D),forfour ed,GON,2017,E,Saarland,9
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Saarland,8
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Saarland,30
+DAIMLER (D),B 250 e,EWE,2017,E,Saarland,3
+FORD (D),Focus Electric,BFW,2017,E,Saarland,1
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Saarland,6
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Saarland,2
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Saarland,1
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Saarland,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Saarland,2
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Saarland,8
+OPEL,Ampera-e,AGT,2017,E,Saarland,0
+OPEL,Ampera-e,BLA,2017,E,Saarland,0
+PEUGEOT (F),iOn,AOG,2017,E,Saarland,7
+RENAULT (F),ZOE,AZX,2017,E,Saarland,23
+TESLA (USA),Model S,AAJ,2017,E,Saarland,5
+TESLA (USA),Model S,AAK,2017,E,Saarland,6
+TESLA (USA),Model S,AAL,2017,E,Saarland,3
+TESLA (USA),Model X,AAM,2017,E,Saarland,3
+TESLA (USA),Model X,AAN,2017,E,Saarland,1
+TESLA (USA),Model X,AAO,2017,E,Saarland,1
+TESLA (USA),Model X,AAP,2017,E,Saarland,1
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Saarland,2
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Saarland,17
+VOLKSWAGEN (D),UP!,BKY,2017,E,Saarland,3
+BMW,"i3s,i3",BSI,2017,E,Sachsen,76
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Sachsen,6
+DAIMLER (D),forfour ed,GON,2017,E,Sachsen,23
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Sachsen,22
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Sachsen,48
+DAIMLER (D),B 250 e,EWE,2017,E,Sachsen,10
+FORD (D),Focus Electric,BFW,2017,E,Sachsen,1
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Sachsen,35
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Sachsen,2
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Sachsen,2
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Sachsen,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Sachsen,3
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Sachsen,37
+OPEL,Ampera-e,AGT,2017,E,Sachsen,3
+OPEL,Ampera-e,BLA,2017,E,Sachsen,7
+PEUGEOT (F),iOn,AOG,2017,E,Sachsen,4
+RENAULT (F),ZOE,AZX,2017,E,Sachsen,103
+TESLA (USA),Model S,AAJ,2017,E,Sachsen,2
+TESLA (USA),Model S,AAK,2017,E,Sachsen,21
+TESLA (USA),Model S,AAL,2017,E,Sachsen,4
+TESLA (USA),Model X,AAM,2017,E,Sachsen,12
+TESLA (USA),Model X,AAN,2017,E,Sachsen,1
+TESLA (USA),Model X,AAO,2017,E,Sachsen,2
+TESLA (USA),Model X,AAP,2017,E,Sachsen,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Sachsen,12
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Sachsen,129
+VOLKSWAGEN (D),UP!,BKY,2017,E,Sachsen,47
+BMW,"i3s,i3",BSI,2017,E,Sachsen-Anhalt,29
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Sachsen-Anhalt,1
+DAIMLER (D),forfour ed,GON,2017,E,Sachsen-Anhalt,6
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Sachsen-Anhalt,4
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Sachsen-Anhalt,24
+DAIMLER (D),B 250 e,EWE,2017,E,Sachsen-Anhalt,4
+FORD (D),Focus Electric,BFW,2017,E,Sachsen-Anhalt,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Sachsen-Anhalt,8
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Sachsen-Anhalt,1
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Sachsen-Anhalt,4
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Sachsen-Anhalt,1
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Sachsen-Anhalt,1
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Sachsen-Anhalt,5
+OPEL,Ampera-e,AGT,2017,E,Sachsen-Anhalt,1
+OPEL,Ampera-e,BLA,2017,E,Sachsen-Anhalt,1
+PEUGEOT (F),iOn,AOG,2017,E,Sachsen-Anhalt,6
+RENAULT (F),ZOE,AZX,2017,E,Sachsen-Anhalt,30
+TESLA (USA),Model S,AAJ,2017,E,Sachsen-Anhalt,0
+TESLA (USA),Model S,AAK,2017,E,Sachsen-Anhalt,10
+TESLA (USA),Model S,AAL,2017,E,Sachsen-Anhalt,1
+TESLA (USA),Model X,AAM,2017,E,Sachsen-Anhalt,6
+TESLA (USA),Model X,AAN,2017,E,Sachsen-Anhalt,0
+TESLA (USA),Model X,AAO,2017,E,Sachsen-Anhalt,0
+TESLA (USA),Model X,AAP,2017,E,Sachsen-Anhalt,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Sachsen-Anhalt,7
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Sachsen-Anhalt,36
+VOLKSWAGEN (D),UP!,BKY,2017,E,Sachsen-Anhalt,25
+BMW,"i3s,i3",BSI,2017,E,Schleswig-Holstein,85
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Schleswig-Holstein,2
+DAIMLER (D),forfour ed,GON,2017,E,Schleswig-Holstein,22
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Schleswig-Holstein,19
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Schleswig-Holstein,55
+DAIMLER (D),B 250 e,EWE,2017,E,Schleswig-Holstein,17
+FORD (D),Focus Electric,BFW,2017,E,Schleswig-Holstein,5
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Schleswig-Holstein,33
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Schleswig-Holstein,4
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Schleswig-Holstein,41
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Schleswig-Holstein,1
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Schleswig-Holstein,5
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Schleswig-Holstein,31
+OPEL,Ampera-e,AGT,2017,E,Schleswig-Holstein,1
+OPEL,Ampera-e,BLA,2017,E,Schleswig-Holstein,2
+PEUGEOT (F),iOn,AOG,2017,E,Schleswig-Holstein,10
+RENAULT (F),ZOE,AZX,2017,E,Schleswig-Holstein,223
+TESLA (USA),Model S,AAJ,2017,E,Schleswig-Holstein,22
+TESLA (USA),Model S,AAK,2017,E,Schleswig-Holstein,40
+TESLA (USA),Model S,AAL,2017,E,Schleswig-Holstein,6
+TESLA (USA),Model X,AAM,2017,E,Schleswig-Holstein,32
+TESLA (USA),Model X,AAN,2017,E,Schleswig-Holstein,4
+TESLA (USA),Model X,AAO,2017,E,Schleswig-Holstein,4
+TESLA (USA),Model X,AAP,2017,E,Schleswig-Holstein,1
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Schleswig-Holstein,8
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Schleswig-Holstein,93
+VOLKSWAGEN (D),UP!,BKY,2017,E,Schleswig-Holstein,20
+BMW,"i3s,i3",BSI,2017,E,Thüringen,35
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,Thüringen,3
+DAIMLER (D),forfour ed,GON,2017,E,Thüringen,11
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,Thüringen,6
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,Thüringen,37
+DAIMLER (D),B 250 e,EWE,2017,E,Thüringen,7
+FORD (D),Focus Electric,BFW,2017,E,Thüringen,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,Thüringen,42
+KIA MOTOR (ROK),SOUL,AFP,2017,E,Thüringen,2
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,Thüringen,1
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,Thüringen,6
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,Thüringen,4
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,Thüringen,4
+OPEL,Ampera-e,AGT,2017,E,Thüringen,4
+OPEL,Ampera-e,BLA,2017,E,Thüringen,3
+PEUGEOT (F),iOn,AOG,2017,E,Thüringen,0
+RENAULT (F),ZOE,AZX,2017,E,Thüringen,44
+TESLA (USA),Model S,AAJ,2017,E,Thüringen,4
+TESLA (USA),Model S,AAK,2017,E,Thüringen,21
+TESLA (USA),Model S,AAL,2017,E,Thüringen,2
+TESLA (USA),Model X,AAM,2017,E,Thüringen,8
+TESLA (USA),Model X,AAN,2017,E,Thüringen,2
+TESLA (USA),Model X,AAO,2017,E,Thüringen,0
+TESLA (USA),Model X,AAP,2017,E,Thüringen,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,Thüringen,3
+VOLKSWAGEN (D),GOLF,CBP,2017,E,Thüringen,63
+VOLKSWAGEN (D),UP!,BKY,2017,E,Thüringen,18
+BMW,"i3s,i3",BSI,2017,E,special,2
+CITROEN (F),"C-ZERO,C-Zero",AJT,2017,E,special,0
+DAIMLER (D),forfour ed,GON,2017,E,special,0
+DAIMLER (D),fortwo cabrio ed,GOP,2017,E,special,0
+DAIMLER (D),fortwo coupe ed,HHE,2017,E,special,0
+DAIMLER (D),B 250 e,EWE,2017,E,special,18
+FORD (D),Focus Electric,BFW,2017,E,special,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2017,E,special,0
+KIA MOTOR (ROK),SOUL,AFP,2017,E,special,0
+KIA MOTOR (ROK),SOUL,AGJ,2017,E,special,0
+MITSUBISHI (J),Mitsubishi i-MiEV,AEK,2017,E,special,0
+NISSAN (CH),NISSAN e-NV200,AIA,2017,E,special,0
+NISSAN (CH),"NISSAN LEAF 30kWh,NISSAN",AFV,2017,E,special,0
+OPEL,Ampera-e,AGT,2017,E,special,0
+OPEL,Ampera-e,BLA,2017,E,special,0
+PEUGEOT (F),iOn,AOG,2017,E,special,0
+RENAULT (F),ZOE,AZX,2017,E,special,5
+TESLA (USA),Model S,AAJ,2017,E,special,1
+TESLA (USA),Model S,AAK,2017,E,special,0
+TESLA (USA),Model S,AAL,2017,E,special,0
+TESLA (USA),Model X,AAM,2017,E,special,1
+TESLA (USA),Model X,AAN,2017,E,special,0
+TESLA (USA),Model X,AAO,2017,E,special,0
+TESLA (USA),Model X,AAP,2017,E,special,0
+VOLKSWAGEN (D),GOLF,BMS,2017,E,special,0
+VOLKSWAGEN (D),GOLF,CBP,2017,E,special,0
+VOLKSWAGEN (D),UP!,BKY,2017,E,special,0

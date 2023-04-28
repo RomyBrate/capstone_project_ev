@@ -1,0 +1,1429 @@
+manufacturer,model,tsn,year,fuel_type,federal_state,new_registration
+AUDI (D),e-tron S,BVM,2020,E,Baden-Württemberg,6
+AUDI (D),e-tron S Sportback,BVN,2020,E,Baden-Württemberg,6
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Baden-Württemberg,92
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Baden-Württemberg,143
+AUDI (D),e-tron 50,BSK,2020,E,Baden-Württemberg,247
+AUDI (D),e-tron 55,BSL,2020,E,Baden-Württemberg,274
+AUDI (D),Audi e-tron,BPG,2020,E,Baden-Württemberg,84
+BMW,iX3,DAQ,2020,E,Baden-Württemberg,0
+BMW,"i3s,i3",BSI,2020,E,Baden-Württemberg,1341
+BMW,Cooper SE,CYC,2020,E,Baden-Württemberg,605
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Baden-Württemberg,21
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Baden-Württemberg,11
+DAIMLER (D),eVito Tourer,AAI,2020,E,Baden-Württemberg,1
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Baden-Württemberg,40
+DAIMLER (D),eVito Tourer,IAU,2020,E,Baden-Württemberg,9
+DAIMLER (D),EQ forfour,ADK,2020,E,Baden-Württemberg,1798
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Baden-Württemberg,1089
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Baden-Württemberg,2258
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Baden-Württemberg,0
+DAIMLER (D),EQA 250,BBR,2020,E,Baden-Württemberg,43
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Baden-Württemberg,789
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Baden-Württemberg,11
+DAIMLER (D),EQV,ASK,2020,E,Baden-Württemberg,120
+DAIMLER (D),EQV,ASL,2020,E,Baden-Württemberg,7
+E.GO,e.GO Life First Edition,AAB,2020,E,Baden-Württemberg,60
+FCA (I),500,AVN,2020,E,Baden-Württemberg,160
+FORD (D),Mustang Mach-E,BUN,2020,E,Baden-Württemberg,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Baden-Württemberg,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Baden-Württemberg,162
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Baden-Württemberg,1295
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Baden-Württemberg,243
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Baden-Württemberg,260
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Baden-Württemberg,562
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Baden-Württemberg,202
+JIANGLING (RC),U5,AAD,2020,E,Baden-Württemberg,65
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Baden-Württemberg,411
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Baden-Württemberg,4
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Baden-Württemberg,220
+KIA MOTOR (ROK),SOUL,AII,2020,E,Baden-Württemberg,12
+MAZDA (J),MAZDA MX-30,AII,2020,E,Baden-Württemberg,418
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Baden-Württemberg,524
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Baden-Württemberg,60
+OPEL,Ampera-e,AGT,2020,E,Baden-Württemberg,39
+PEUGEOT (F),iOn,AOG,2020,E,Baden-Württemberg,20
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Baden-Württemberg,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Baden-Württemberg,15
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Baden-Württemberg,373
+PORSCHE,Taycan 4S,ALZ,2020,E,Baden-Württemberg,552
+PORSCHE,Taycan 4S,AMA,2020,E,Baden-Württemberg,75
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Baden-Württemberg,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Baden-Württemberg,1029
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Baden-Württemberg,27
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Baden-Württemberg,333
+PSA AUTOMOBILES (F),208,ACH,2020,E,Baden-Württemberg,462
+RENAULT (F),TWINGO,BNZ,2020,E,Baden-Württemberg,135
+RENAULT (F),ZOE,AZX,2020,E,Baden-Württemberg,17
+RENAULT (F),ZOE,BIA,2020,E,Baden-Württemberg,49
+RENAULT (F),ZOE,BMT,2020,E,Baden-Württemberg,5540
+SEAT (E),MII,APB,2020,E,Baden-Württemberg,309
+SKODA (CZ),CITIGO,AUN,2020,E,Baden-Württemberg,679
+TESLA (USA),Model S,AAL,2020,E,Baden-Württemberg,3
+TESLA (USA),Model S,AAT,2020,E,Baden-Württemberg,25
+TESLA (USA),Model S,AAV,2020,E,Baden-Württemberg,5
+TESLA (USA),Model S,AAX,2020,E,Baden-Württemberg,56
+TESLA (USA),Model X,AAP,2020,E,Baden-Württemberg,1
+TESLA (USA),Model X,AAU,2020,E,Baden-Württemberg,8
+TESLA (USA),Model X,AAW,2020,E,Baden-Württemberg,5
+TESLA (USA),Model X,AAY,2020,E,Baden-Württemberg,55
+TESLA (USA),Model 3,AAQ,2020,E,Baden-Württemberg,346
+TESLA (USA),Model 3,AAR,2020,E,Baden-Württemberg,1091
+TESLA (USA),Model 3,AAS,2020,E,Baden-Württemberg,354
+TESLA (USA),Model 3,AAZ,2020,E,Baden-Württemberg,288
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Baden-Württemberg,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Baden-Württemberg,2
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Baden-Württemberg,1
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Baden-Württemberg,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Baden-Württemberg,2730
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Baden-Württemberg,5
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Baden-Württemberg,1748
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Baden-Württemberg,66
+VOLKSWAGEN (D),UP!,BKY,2020,E,Baden-Württemberg,1
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Baden-Württemberg,1746
+VOLVO (S),Polestar 2,BRO,2020,E,Baden-Württemberg,114
+VOLVO (S),XC40,BTE,2020,E,Baden-Württemberg,14
+AUDI (D),e-tron S,BVM,2020,E,Bayern,25
+AUDI (D),e-tron S Sportback,BVN,2020,E,Bayern,90
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Bayern,319
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Bayern,549
+AUDI (D),e-tron 50,BSK,2020,E,Bayern,934
+AUDI (D),e-tron 55,BSL,2020,E,Bayern,1277
+AUDI (D),Audi e-tron,BPG,2020,E,Bayern,245
+BMW,iX3,DAQ,2020,E,Bayern,42
+BMW,"i3s,i3",BSI,2020,E,Bayern,3217
+BMW,Cooper SE,CYC,2020,E,Bayern,1182
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Bayern,12
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Bayern,12
+DAIMLER (D),eVito Tourer,AAI,2020,E,Bayern,1
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Bayern,33
+DAIMLER (D),eVito Tourer,IAU,2020,E,Bayern,10
+DAIMLER (D),EQ forfour,ADK,2020,E,Bayern,595
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Bayern,573
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Bayern,915
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Bayern,0
+DAIMLER (D),EQA 250,BBR,2020,E,Bayern,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Bayern,369
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Bayern,15
+DAIMLER (D),EQV,ASK,2020,E,Bayern,100
+DAIMLER (D),EQV,ASL,2020,E,Bayern,11
+E.GO,e.GO Life First Edition,AAB,2020,E,Bayern,52
+FCA (I),500,AVN,2020,E,Bayern,191
+FORD (D),Mustang Mach-E,BUN,2020,E,Bayern,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Bayern,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Bayern,144
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Bayern,1415
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Bayern,322
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Bayern,425
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Bayern,596
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Bayern,313
+JIANGLING (RC),U5,AAD,2020,E,Bayern,33
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Bayern,683
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Bayern,23
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Bayern,285
+KIA MOTOR (ROK),SOUL,AII,2020,E,Bayern,12
+MAZDA (J),MAZDA MX-30,AII,2020,E,Bayern,594
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Bayern,788
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Bayern,51
+OPEL,Ampera-e,AGT,2020,E,Bayern,82
+PEUGEOT (F),iOn,AOG,2020,E,Bayern,57
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Bayern,5
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Bayern,30
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Bayern,209
+PORSCHE,Taycan 4S,ALZ,2020,E,Bayern,300
+PORSCHE,Taycan 4S,AMA,2020,E,Bayern,37
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Bayern,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Bayern,1301
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Bayern,13
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Bayern,157
+PSA AUTOMOBILES (F),208,ACH,2020,E,Bayern,470
+RENAULT (F),TWINGO,BNZ,2020,E,Bayern,186
+RENAULT (F),ZOE,AZX,2020,E,Bayern,28
+RENAULT (F),ZOE,BIA,2020,E,Bayern,53
+RENAULT (F),ZOE,BMT,2020,E,Bayern,5217
+SEAT (E),MII,APB,2020,E,Bayern,308
+SKODA (CZ),CITIGO,AUN,2020,E,Bayern,795
+TESLA (USA),Model S,AAL,2020,E,Bayern,7
+TESLA (USA),Model S,AAT,2020,E,Bayern,73
+TESLA (USA),Model S,AAV,2020,E,Bayern,18
+TESLA (USA),Model S,AAX,2020,E,Bayern,110
+TESLA (USA),Model X,AAP,2020,E,Bayern,7
+TESLA (USA),Model X,AAU,2020,E,Bayern,75
+TESLA (USA),Model X,AAW,2020,E,Bayern,14
+TESLA (USA),Model X,AAY,2020,E,Bayern,106
+TESLA (USA),Model 3,AAQ,2020,E,Bayern,555
+TESLA (USA),Model 3,AAR,2020,E,Bayern,1750
+TESLA (USA),Model 3,AAS,2020,E,Bayern,583
+TESLA (USA),Model 3,AAZ,2020,E,Bayern,360
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Bayern,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Bayern,11
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Bayern,4
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Bayern,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Bayern,1984
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Bayern,27
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Bayern,1757
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Bayern,88
+VOLKSWAGEN (D),UP!,BKY,2020,E,Bayern,4
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Bayern,1509
+VOLVO (S),Polestar 2,BRO,2020,E,Bayern,148
+VOLVO (S),XC40,BTE,2020,E,Bayern,16
+AUDI (D),e-tron S,BVM,2020,E,Berlin,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Berlin,1
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Berlin,10
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Berlin,16
+AUDI (D),e-tron 50,BSK,2020,E,Berlin,25
+AUDI (D),e-tron 55,BSL,2020,E,Berlin,49
+AUDI (D),Audi e-tron,BPG,2020,E,Berlin,30
+BMW,iX3,DAQ,2020,E,Berlin,0
+BMW,"i3s,i3",BSI,2020,E,Berlin,244
+BMW,Cooper SE,CYC,2020,E,Berlin,152
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Berlin,0
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Berlin,0
+DAIMLER (D),eVito Tourer,AAI,2020,E,Berlin,2
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Berlin,6
+DAIMLER (D),eVito Tourer,IAU,2020,E,Berlin,1
+DAIMLER (D),EQ forfour,ADK,2020,E,Berlin,85
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Berlin,168
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Berlin,273
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Berlin,0
+DAIMLER (D),EQA 250,BBR,2020,E,Berlin,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Berlin,563
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Berlin,10
+DAIMLER (D),EQV,ASK,2020,E,Berlin,255
+DAIMLER (D),EQV,ASL,2020,E,Berlin,26
+E.GO,e.GO Life First Edition,AAB,2020,E,Berlin,12
+FCA (I),500,AVN,2020,E,Berlin,21
+FORD (D),Mustang Mach-E,BUN,2020,E,Berlin,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Berlin,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Berlin,33
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Berlin,177
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Berlin,20
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Berlin,23
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Berlin,34
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Berlin,46
+JIANGLING (RC),U5,AAD,2020,E,Berlin,6
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Berlin,59
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Berlin,1
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Berlin,29
+KIA MOTOR (ROK),SOUL,AII,2020,E,Berlin,1
+MAZDA (J),MAZDA MX-30,AII,2020,E,Berlin,37
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Berlin,81
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Berlin,61
+OPEL,Ampera-e,AGT,2020,E,Berlin,9
+PEUGEOT (F),iOn,AOG,2020,E,Berlin,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Berlin,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Berlin,1
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Berlin,33
+PORSCHE,Taycan 4S,ALZ,2020,E,Berlin,33
+PORSCHE,Taycan 4S,AMA,2020,E,Berlin,7
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Berlin,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Berlin,91
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Berlin,3
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Berlin,6
+PSA AUTOMOBILES (F),208,ACH,2020,E,Berlin,47
+RENAULT (F),TWINGO,BNZ,2020,E,Berlin,16
+RENAULT (F),ZOE,AZX,2020,E,Berlin,12
+RENAULT (F),ZOE,BIA,2020,E,Berlin,142
+RENAULT (F),ZOE,BMT,2020,E,Berlin,518
+SEAT (E),MII,APB,2020,E,Berlin,24
+SKODA (CZ),CITIGO,AUN,2020,E,Berlin,89
+TESLA (USA),Model S,AAL,2020,E,Berlin,2
+TESLA (USA),Model S,AAT,2020,E,Berlin,12
+TESLA (USA),Model S,AAV,2020,E,Berlin,2
+TESLA (USA),Model S,AAX,2020,E,Berlin,21
+TESLA (USA),Model X,AAP,2020,E,Berlin,0
+TESLA (USA),Model X,AAU,2020,E,Berlin,14
+TESLA (USA),Model X,AAW,2020,E,Berlin,2
+TESLA (USA),Model X,AAY,2020,E,Berlin,25
+TESLA (USA),Model 3,AAQ,2020,E,Berlin,97
+TESLA (USA),Model 3,AAR,2020,E,Berlin,299
+TESLA (USA),Model 3,AAS,2020,E,Berlin,116
+TESLA (USA),Model 3,AAZ,2020,E,Berlin,78
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Berlin,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Berlin,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Berlin,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Berlin,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Berlin,295
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Berlin,0
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Berlin,166
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Berlin,2
+VOLKSWAGEN (D),UP!,BKY,2020,E,Berlin,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Berlin,193
+VOLVO (S),Polestar 2,BRO,2020,E,Berlin,33
+VOLVO (S),XC40,BTE,2020,E,Berlin,0
+AUDI (D),e-tron S,BVM,2020,E,Brandenburg,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Brandenburg,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Brandenburg,4
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Brandenburg,19
+AUDI (D),e-tron 50,BSK,2020,E,Brandenburg,10
+AUDI (D),e-tron 55,BSL,2020,E,Brandenburg,7
+AUDI (D),Audi e-tron,BPG,2020,E,Brandenburg,8
+BMW,iX3,DAQ,2020,E,Brandenburg,0
+BMW,"i3s,i3",BSI,2020,E,Brandenburg,92
+BMW,Cooper SE,CYC,2020,E,Brandenburg,73
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Brandenburg,0
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Brandenburg,7
+DAIMLER (D),eVito Tourer,AAI,2020,E,Brandenburg,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Brandenburg,15
+DAIMLER (D),eVito Tourer,IAU,2020,E,Brandenburg,4
+DAIMLER (D),EQ forfour,ADK,2020,E,Brandenburg,77
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Brandenburg,56
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Brandenburg,83
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Brandenburg,0
+DAIMLER (D),EQA 250,BBR,2020,E,Brandenburg,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Brandenburg,40
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Brandenburg,2
+DAIMLER (D),EQV,ASK,2020,E,Brandenburg,42
+DAIMLER (D),EQV,ASL,2020,E,Brandenburg,1
+E.GO,e.GO Life First Edition,AAB,2020,E,Brandenburg,3
+FCA (I),500,AVN,2020,E,Brandenburg,9
+FORD (D),Mustang Mach-E,BUN,2020,E,Brandenburg,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Brandenburg,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Brandenburg,33
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Brandenburg,194
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Brandenburg,56
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Brandenburg,49
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Brandenburg,64
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Brandenburg,18
+JIANGLING (RC),U5,AAD,2020,E,Brandenburg,6
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Brandenburg,82
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Brandenburg,0
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Brandenburg,32
+KIA MOTOR (ROK),SOUL,AII,2020,E,Brandenburg,3
+MAZDA (J),MAZDA MX-30,AII,2020,E,Brandenburg,65
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Brandenburg,87
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Brandenburg,20
+OPEL,Ampera-e,AGT,2020,E,Brandenburg,21
+PEUGEOT (F),iOn,AOG,2020,E,Brandenburg,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Brandenburg,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Brandenburg,12
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Brandenburg,8
+PORSCHE,Taycan 4S,ALZ,2020,E,Brandenburg,10
+PORSCHE,Taycan 4S,AMA,2020,E,Brandenburg,2
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Brandenburg,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Brandenburg,146
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Brandenburg,0
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Brandenburg,26
+PSA AUTOMOBILES (F),208,ACH,2020,E,Brandenburg,50
+RENAULT (F),TWINGO,BNZ,2020,E,Brandenburg,26
+RENAULT (F),ZOE,AZX,2020,E,Brandenburg,4
+RENAULT (F),ZOE,BIA,2020,E,Brandenburg,14
+RENAULT (F),ZOE,BMT,2020,E,Brandenburg,587
+SEAT (E),MII,APB,2020,E,Brandenburg,25
+SKODA (CZ),CITIGO,AUN,2020,E,Brandenburg,160
+TESLA (USA),Model S,AAL,2020,E,Brandenburg,0
+TESLA (USA),Model S,AAT,2020,E,Brandenburg,3
+TESLA (USA),Model S,AAV,2020,E,Brandenburg,3
+TESLA (USA),Model S,AAX,2020,E,Brandenburg,14
+TESLA (USA),Model X,AAP,2020,E,Brandenburg,2
+TESLA (USA),Model X,AAU,2020,E,Brandenburg,5
+TESLA (USA),Model X,AAW,2020,E,Brandenburg,0
+TESLA (USA),Model X,AAY,2020,E,Brandenburg,16
+TESLA (USA),Model 3,AAQ,2020,E,Brandenburg,90
+TESLA (USA),Model 3,AAR,2020,E,Brandenburg,201
+TESLA (USA),Model 3,AAS,2020,E,Brandenburg,64
+TESLA (USA),Model 3,AAZ,2020,E,Brandenburg,56
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Brandenburg,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Brandenburg,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Brandenburg,2
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Brandenburg,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Brandenburg,172
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Brandenburg,1
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Brandenburg,204
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Brandenburg,14
+VOLKSWAGEN (D),UP!,BKY,2020,E,Brandenburg,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Brandenburg,165
+VOLVO (S),Polestar 2,BRO,2020,E,Brandenburg,21
+VOLVO (S),XC40,BTE,2020,E,Brandenburg,5
+AUDI (D),e-tron S,BVM,2020,E,Bremen,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Bremen,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Bremen,1
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Bremen,4
+AUDI (D),e-tron 50,BSK,2020,E,Bremen,8
+AUDI (D),e-tron 55,BSL,2020,E,Bremen,8
+AUDI (D),Audi e-tron,BPG,2020,E,Bremen,3
+BMW,iX3,DAQ,2020,E,Bremen,0
+BMW,"i3s,i3",BSI,2020,E,Bremen,30
+BMW,Cooper SE,CYC,2020,E,Bremen,18
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Bremen,1
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Bremen,0
+DAIMLER (D),eVito Tourer,AAI,2020,E,Bremen,1
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Bremen,0
+DAIMLER (D),eVito Tourer,IAU,2020,E,Bremen,2
+DAIMLER (D),EQ forfour,ADK,2020,E,Bremen,29
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Bremen,21
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Bremen,34
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Bremen,0
+DAIMLER (D),EQA 250,BBR,2020,E,Bremen,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Bremen,73
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Bremen,1
+DAIMLER (D),EQV,ASK,2020,E,Bremen,19
+DAIMLER (D),EQV,ASL,2020,E,Bremen,0
+E.GO,e.GO Life First Edition,AAB,2020,E,Bremen,1
+FCA (I),500,AVN,2020,E,Bremen,2
+FORD (D),Mustang Mach-E,BUN,2020,E,Bremen,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Bremen,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Bremen,4
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Bremen,51
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Bremen,18
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Bremen,16
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Bremen,15
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Bremen,8
+JIANGLING (RC),U5,AAD,2020,E,Bremen,1
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Bremen,18
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Bremen,1
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Bremen,19
+KIA MOTOR (ROK),SOUL,AII,2020,E,Bremen,1
+MAZDA (J),MAZDA MX-30,AII,2020,E,Bremen,8
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Bremen,4
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Bremen,1
+OPEL,Ampera-e,AGT,2020,E,Bremen,4
+PEUGEOT (F),iOn,AOG,2020,E,Bremen,0
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Bremen,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Bremen,1
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Bremen,6
+PORSCHE,Taycan 4S,ALZ,2020,E,Bremen,3
+PORSCHE,Taycan 4S,AMA,2020,E,Bremen,1
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Bremen,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Bremen,16
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Bremen,0
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Bremen,6
+PSA AUTOMOBILES (F),208,ACH,2020,E,Bremen,10
+RENAULT (F),TWINGO,BNZ,2020,E,Bremen,7
+RENAULT (F),ZOE,AZX,2020,E,Bremen,0
+RENAULT (F),ZOE,BIA,2020,E,Bremen,6
+RENAULT (F),ZOE,BMT,2020,E,Bremen,135
+SEAT (E),MII,APB,2020,E,Bremen,4
+SKODA (CZ),CITIGO,AUN,2020,E,Bremen,21
+TESLA (USA),Model S,AAL,2020,E,Bremen,0
+TESLA (USA),Model S,AAT,2020,E,Bremen,2
+TESLA (USA),Model S,AAV,2020,E,Bremen,0
+TESLA (USA),Model S,AAX,2020,E,Bremen,2
+TESLA (USA),Model X,AAP,2020,E,Bremen,0
+TESLA (USA),Model X,AAU,2020,E,Bremen,1
+TESLA (USA),Model X,AAW,2020,E,Bremen,0
+TESLA (USA),Model X,AAY,2020,E,Bremen,2
+TESLA (USA),Model 3,AAQ,2020,E,Bremen,18
+TESLA (USA),Model 3,AAR,2020,E,Bremen,58
+TESLA (USA),Model 3,AAS,2020,E,Bremen,9
+TESLA (USA),Model 3,AAZ,2020,E,Bremen,14
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Bremen,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Bremen,1
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Bremen,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Bremen,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Bremen,50
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Bremen,1
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Bremen,40
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Bremen,2
+VOLKSWAGEN (D),UP!,BKY,2020,E,Bremen,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Bremen,42
+VOLVO (S),Polestar 2,BRO,2020,E,Bremen,6
+VOLVO (S),XC40,BTE,2020,E,Bremen,0
+AUDI (D),e-tron S,BVM,2020,E,Hamburg,1
+AUDI (D),e-tron S Sportback,BVN,2020,E,Hamburg,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Hamburg,6
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Hamburg,8
+AUDI (D),e-tron 50,BSK,2020,E,Hamburg,19
+AUDI (D),e-tron 55,BSL,2020,E,Hamburg,41
+AUDI (D),Audi e-tron,BPG,2020,E,Hamburg,12
+BMW,iX3,DAQ,2020,E,Hamburg,0
+BMW,"i3s,i3",BSI,2020,E,Hamburg,189
+BMW,Cooper SE,CYC,2020,E,Hamburg,125
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Hamburg,0
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Hamburg,0
+DAIMLER (D),eVito Tourer,AAI,2020,E,Hamburg,1
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Hamburg,5
+DAIMLER (D),eVito Tourer,IAU,2020,E,Hamburg,3
+DAIMLER (D),EQ forfour,ADK,2020,E,Hamburg,79
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Hamburg,146
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Hamburg,284
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Hamburg,105
+DAIMLER (D),EQA 250,BBR,2020,E,Hamburg,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Hamburg,78
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Hamburg,3
+DAIMLER (D),EQV,ASK,2020,E,Hamburg,32
+DAIMLER (D),EQV,ASL,2020,E,Hamburg,2
+E.GO,e.GO Life First Edition,AAB,2020,E,Hamburg,13
+FCA (I),500,AVN,2020,E,Hamburg,22
+FORD (D),Mustang Mach-E,BUN,2020,E,Hamburg,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Hamburg,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Hamburg,40
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Hamburg,82
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Hamburg,23
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Hamburg,24
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Hamburg,49
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Hamburg,69
+JIANGLING (RC),U5,AAD,2020,E,Hamburg,4
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Hamburg,46
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Hamburg,0
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Hamburg,17
+KIA MOTOR (ROK),SOUL,AII,2020,E,Hamburg,1
+MAZDA (J),MAZDA MX-30,AII,2020,E,Hamburg,54
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Hamburg,137
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Hamburg,19
+OPEL,Ampera-e,AGT,2020,E,Hamburg,28
+PEUGEOT (F),iOn,AOG,2020,E,Hamburg,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Hamburg,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Hamburg,2
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Hamburg,47
+PORSCHE,Taycan 4S,ALZ,2020,E,Hamburg,59
+PORSCHE,Taycan 4S,AMA,2020,E,Hamburg,5
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Hamburg,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Hamburg,51
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Hamburg,3
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Hamburg,12
+PSA AUTOMOBILES (F),208,ACH,2020,E,Hamburg,31
+RENAULT (F),TWINGO,BNZ,2020,E,Hamburg,12
+RENAULT (F),ZOE,AZX,2020,E,Hamburg,4
+RENAULT (F),ZOE,BIA,2020,E,Hamburg,6
+RENAULT (F),ZOE,BMT,2020,E,Hamburg,765
+SEAT (E),MII,APB,2020,E,Hamburg,59
+SKODA (CZ),CITIGO,AUN,2020,E,Hamburg,34
+TESLA (USA),Model S,AAL,2020,E,Hamburg,0
+TESLA (USA),Model S,AAT,2020,E,Hamburg,7
+TESLA (USA),Model S,AAV,2020,E,Hamburg,2
+TESLA (USA),Model S,AAX,2020,E,Hamburg,11
+TESLA (USA),Model X,AAP,2020,E,Hamburg,0
+TESLA (USA),Model X,AAU,2020,E,Hamburg,4
+TESLA (USA),Model X,AAW,2020,E,Hamburg,1
+TESLA (USA),Model X,AAY,2020,E,Hamburg,13
+TESLA (USA),Model 3,AAQ,2020,E,Hamburg,71
+TESLA (USA),Model 3,AAR,2020,E,Hamburg,221
+TESLA (USA),Model 3,AAS,2020,E,Hamburg,65
+TESLA (USA),Model 3,AAZ,2020,E,Hamburg,51
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Hamburg,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Hamburg,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Hamburg,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Hamburg,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Hamburg,229
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Hamburg,2
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Hamburg,158
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Hamburg,5
+VOLKSWAGEN (D),UP!,BKY,2020,E,Hamburg,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Hamburg,320
+VOLVO (S),Polestar 2,BRO,2020,E,Hamburg,119
+VOLVO (S),XC40,BTE,2020,E,Hamburg,1
+AUDI (D),e-tron S,BVM,2020,E,Hessen,1
+AUDI (D),e-tron S Sportback,BVN,2020,E,Hessen,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Hessen,47
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Hessen,65
+AUDI (D),e-tron 50,BSK,2020,E,Hessen,93
+AUDI (D),e-tron 55,BSL,2020,E,Hessen,116
+AUDI (D),Audi e-tron,BPG,2020,E,Hessen,45
+BMW,iX3,DAQ,2020,E,Hessen,0
+BMW,"i3s,i3",BSI,2020,E,Hessen,505
+BMW,Cooper SE,CYC,2020,E,Hessen,395
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Hessen,21
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Hessen,5
+DAIMLER (D),eVito Tourer,AAI,2020,E,Hessen,1
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Hessen,14
+DAIMLER (D),eVito Tourer,IAU,2020,E,Hessen,0
+DAIMLER (D),EQ forfour,ADK,2020,E,Hessen,206
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Hessen,254
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Hessen,509
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Hessen,1
+DAIMLER (D),EQA 250,BBR,2020,E,Hessen,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Hessen,165
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Hessen,4
+DAIMLER (D),EQV,ASK,2020,E,Hessen,26
+DAIMLER (D),EQV,ASL,2020,E,Hessen,4
+E.GO,e.GO Life First Edition,AAB,2020,E,Hessen,48
+FCA (I),500,AVN,2020,E,Hessen,70
+FORD (D),Mustang Mach-E,BUN,2020,E,Hessen,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Hessen,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Hessen,131
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Hessen,772
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Hessen,168
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Hessen,148
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Hessen,430
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Hessen,184
+JIANGLING (RC),U5,AAD,2020,E,Hessen,10
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Hessen,303
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Hessen,5
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Hessen,774
+KIA MOTOR (ROK),SOUL,AII,2020,E,Hessen,10
+MAZDA (J),MAZDA MX-30,AII,2020,E,Hessen,302
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Hessen,199
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Hessen,23
+OPEL,Ampera-e,AGT,2020,E,Hessen,176
+PEUGEOT (F),iOn,AOG,2020,E,Hessen,11
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Hessen,5
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Hessen,99
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Hessen,88
+PORSCHE,Taycan 4S,ALZ,2020,E,Hessen,107
+PORSCHE,Taycan 4S,AMA,2020,E,Hessen,28
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Hessen,17
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Hessen,597
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Hessen,31
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Hessen,101
+PSA AUTOMOBILES (F),208,ACH,2020,E,Hessen,241
+RENAULT (F),TWINGO,BNZ,2020,E,Hessen,57
+RENAULT (F),ZOE,AZX,2020,E,Hessen,11
+RENAULT (F),ZOE,BIA,2020,E,Hessen,22
+RENAULT (F),ZOE,BMT,2020,E,Hessen,2384
+SEAT (E),MII,APB,2020,E,Hessen,172
+SKODA (CZ),CITIGO,AUN,2020,E,Hessen,361
+TESLA (USA),Model S,AAL,2020,E,Hessen,0
+TESLA (USA),Model S,AAT,2020,E,Hessen,12
+TESLA (USA),Model S,AAV,2020,E,Hessen,6
+TESLA (USA),Model S,AAX,2020,E,Hessen,38
+TESLA (USA),Model X,AAP,2020,E,Hessen,1
+TESLA (USA),Model X,AAU,2020,E,Hessen,24
+TESLA (USA),Model X,AAW,2020,E,Hessen,4
+TESLA (USA),Model X,AAY,2020,E,Hessen,56
+TESLA (USA),Model 3,AAQ,2020,E,Hessen,211
+TESLA (USA),Model 3,AAR,2020,E,Hessen,703
+TESLA (USA),Model 3,AAS,2020,E,Hessen,267
+TESLA (USA),Model 3,AAZ,2020,E,Hessen,177
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Hessen,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Hessen,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Hessen,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Hessen,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Hessen,782
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Hessen,9
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Hessen,1628
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Hessen,49
+VOLKSWAGEN (D),UP!,BKY,2020,E,Hessen,1
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Hessen,723
+VOLVO (S),Polestar 2,BRO,2020,E,Hessen,65
+VOLVO (S),XC40,BTE,2020,E,Hessen,10
+AUDI (D),e-tron S,BVM,2020,E,Mecklenburg-Vorpommern,1
+AUDI (D),e-tron S Sportback,BVN,2020,E,Mecklenburg-Vorpommern,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Mecklenburg-Vorpommern,1
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Mecklenburg-Vorpommern,6
+AUDI (D),e-tron 50,BSK,2020,E,Mecklenburg-Vorpommern,11
+AUDI (D),e-tron 55,BSL,2020,E,Mecklenburg-Vorpommern,9
+AUDI (D),Audi e-tron,BPG,2020,E,Mecklenburg-Vorpommern,5
+BMW,iX3,DAQ,2020,E,Mecklenburg-Vorpommern,0
+BMW,"i3s,i3",BSI,2020,E,Mecklenburg-Vorpommern,46
+BMW,Cooper SE,CYC,2020,E,Mecklenburg-Vorpommern,15
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Mecklenburg-Vorpommern,0
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Mecklenburg-Vorpommern,2
+DAIMLER (D),eVito Tourer,AAI,2020,E,Mecklenburg-Vorpommern,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Mecklenburg-Vorpommern,2
+DAIMLER (D),eVito Tourer,IAU,2020,E,Mecklenburg-Vorpommern,1
+DAIMLER (D),EQ forfour,ADK,2020,E,Mecklenburg-Vorpommern,17
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Mecklenburg-Vorpommern,18
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Mecklenburg-Vorpommern,23
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Mecklenburg-Vorpommern,0
+DAIMLER (D),EQA 250,BBR,2020,E,Mecklenburg-Vorpommern,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Mecklenburg-Vorpommern,17
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Mecklenburg-Vorpommern,2
+DAIMLER (D),EQV,ASK,2020,E,Mecklenburg-Vorpommern,4
+DAIMLER (D),EQV,ASL,2020,E,Mecklenburg-Vorpommern,1
+E.GO,e.GO Life First Edition,AAB,2020,E,Mecklenburg-Vorpommern,0
+FCA (I),500,AVN,2020,E,Mecklenburg-Vorpommern,5
+FORD (D),Mustang Mach-E,BUN,2020,E,Mecklenburg-Vorpommern,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Mecklenburg-Vorpommern,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Mecklenburg-Vorpommern,19
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Mecklenburg-Vorpommern,80
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Mecklenburg-Vorpommern,29
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Mecklenburg-Vorpommern,19
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Mecklenburg-Vorpommern,44
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Mecklenburg-Vorpommern,6
+JIANGLING (RC),U5,AAD,2020,E,Mecklenburg-Vorpommern,0
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Mecklenburg-Vorpommern,25
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Mecklenburg-Vorpommern,0
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Mecklenburg-Vorpommern,11
+KIA MOTOR (ROK),SOUL,AII,2020,E,Mecklenburg-Vorpommern,3
+MAZDA (J),MAZDA MX-30,AII,2020,E,Mecklenburg-Vorpommern,52
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Mecklenburg-Vorpommern,42
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Mecklenburg-Vorpommern,8
+OPEL,Ampera-e,AGT,2020,E,Mecklenburg-Vorpommern,15
+PEUGEOT (F),iOn,AOG,2020,E,Mecklenburg-Vorpommern,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Mecklenburg-Vorpommern,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Mecklenburg-Vorpommern,12
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Mecklenburg-Vorpommern,7
+PORSCHE,Taycan 4S,ALZ,2020,E,Mecklenburg-Vorpommern,5
+PORSCHE,Taycan 4S,AMA,2020,E,Mecklenburg-Vorpommern,0
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Mecklenburg-Vorpommern,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Mecklenburg-Vorpommern,70
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Mecklenburg-Vorpommern,0
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Mecklenburg-Vorpommern,11
+PSA AUTOMOBILES (F),208,ACH,2020,E,Mecklenburg-Vorpommern,25
+RENAULT (F),TWINGO,BNZ,2020,E,Mecklenburg-Vorpommern,50
+RENAULT (F),ZOE,AZX,2020,E,Mecklenburg-Vorpommern,2
+RENAULT (F),ZOE,BIA,2020,E,Mecklenburg-Vorpommern,16
+RENAULT (F),ZOE,BMT,2020,E,Mecklenburg-Vorpommern,458
+SEAT (E),MII,APB,2020,E,Mecklenburg-Vorpommern,14
+SKODA (CZ),CITIGO,AUN,2020,E,Mecklenburg-Vorpommern,59
+TESLA (USA),Model S,AAL,2020,E,Mecklenburg-Vorpommern,2
+TESLA (USA),Model S,AAT,2020,E,Mecklenburg-Vorpommern,3
+TESLA (USA),Model S,AAV,2020,E,Mecklenburg-Vorpommern,1
+TESLA (USA),Model S,AAX,2020,E,Mecklenburg-Vorpommern,6
+TESLA (USA),Model X,AAP,2020,E,Mecklenburg-Vorpommern,0
+TESLA (USA),Model X,AAU,2020,E,Mecklenburg-Vorpommern,3
+TESLA (USA),Model X,AAW,2020,E,Mecklenburg-Vorpommern,0
+TESLA (USA),Model X,AAY,2020,E,Mecklenburg-Vorpommern,4
+TESLA (USA),Model 3,AAQ,2020,E,Mecklenburg-Vorpommern,28
+TESLA (USA),Model 3,AAR,2020,E,Mecklenburg-Vorpommern,58
+TESLA (USA),Model 3,AAS,2020,E,Mecklenburg-Vorpommern,8
+TESLA (USA),Model 3,AAZ,2020,E,Mecklenburg-Vorpommern,19
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Mecklenburg-Vorpommern,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Mecklenburg-Vorpommern,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Mecklenburg-Vorpommern,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Mecklenburg-Vorpommern,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Mecklenburg-Vorpommern,115
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Mecklenburg-Vorpommern,2
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Mecklenburg-Vorpommern,122
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Mecklenburg-Vorpommern,9
+VOLKSWAGEN (D),UP!,BKY,2020,E,Mecklenburg-Vorpommern,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Mecklenburg-Vorpommern,84
+VOLVO (S),Polestar 2,BRO,2020,E,Mecklenburg-Vorpommern,6
+VOLVO (S),XC40,BTE,2020,E,Mecklenburg-Vorpommern,0
+AUDI (D),e-tron S,BVM,2020,E,Niedersachsen,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Niedersachsen,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Niedersachsen,165
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Niedersachsen,395
+AUDI (D),e-tron 50,BSK,2020,E,Niedersachsen,293
+AUDI (D),e-tron 55,BSL,2020,E,Niedersachsen,497
+AUDI (D),Audi e-tron,BPG,2020,E,Niedersachsen,48
+BMW,iX3,DAQ,2020,E,Niedersachsen,0
+BMW,"i3s,i3",BSI,2020,E,Niedersachsen,473
+BMW,Cooper SE,CYC,2020,E,Niedersachsen,310
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Niedersachsen,5
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Niedersachsen,5
+DAIMLER (D),eVito Tourer,AAI,2020,E,Niedersachsen,1
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Niedersachsen,7
+DAIMLER (D),eVito Tourer,IAU,2020,E,Niedersachsen,1
+DAIMLER (D),EQ forfour,ADK,2020,E,Niedersachsen,196
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Niedersachsen,195
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Niedersachsen,467
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Niedersachsen,1
+DAIMLER (D),EQA 250,BBR,2020,E,Niedersachsen,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Niedersachsen,170
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Niedersachsen,6
+DAIMLER (D),EQV,ASK,2020,E,Niedersachsen,31
+DAIMLER (D),EQV,ASL,2020,E,Niedersachsen,3
+E.GO,e.GO Life First Edition,AAB,2020,E,Niedersachsen,20
+FCA (I),500,AVN,2020,E,Niedersachsen,62
+FORD (D),Mustang Mach-E,BUN,2020,E,Niedersachsen,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Niedersachsen,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Niedersachsen,81
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Niedersachsen,599
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Niedersachsen,188
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Niedersachsen,484
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Niedersachsen,401
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Niedersachsen,78
+JIANGLING (RC),U5,AAD,2020,E,Niedersachsen,11
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Niedersachsen,411
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Niedersachsen,13
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Niedersachsen,183
+KIA MOTOR (ROK),SOUL,AII,2020,E,Niedersachsen,22
+MAZDA (J),MAZDA MX-30,AII,2020,E,Niedersachsen,349
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Niedersachsen,261
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Niedersachsen,28
+OPEL,Ampera-e,AGT,2020,E,Niedersachsen,64
+PEUGEOT (F),iOn,AOG,2020,E,Niedersachsen,10
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Niedersachsen,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Niedersachsen,11
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Niedersachsen,39
+PORSCHE,Taycan 4S,ALZ,2020,E,Niedersachsen,56
+PORSCHE,Taycan 4S,AMA,2020,E,Niedersachsen,16
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Niedersachsen,1
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Niedersachsen,487
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Niedersachsen,12
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Niedersachsen,78
+PSA AUTOMOBILES (F),208,ACH,2020,E,Niedersachsen,189
+RENAULT (F),TWINGO,BNZ,2020,E,Niedersachsen,108
+RENAULT (F),ZOE,AZX,2020,E,Niedersachsen,5
+RENAULT (F),ZOE,BIA,2020,E,Niedersachsen,20
+RENAULT (F),ZOE,BMT,2020,E,Niedersachsen,2490
+SEAT (E),MII,APB,2020,E,Niedersachsen,171
+SKODA (CZ),CITIGO,AUN,2020,E,Niedersachsen,552
+TESLA (USA),Model S,AAL,2020,E,Niedersachsen,1
+TESLA (USA),Model S,AAT,2020,E,Niedersachsen,15
+TESLA (USA),Model S,AAV,2020,E,Niedersachsen,5
+TESLA (USA),Model S,AAX,2020,E,Niedersachsen,38
+TESLA (USA),Model X,AAP,2020,E,Niedersachsen,1
+TESLA (USA),Model X,AAU,2020,E,Niedersachsen,15
+TESLA (USA),Model X,AAW,2020,E,Niedersachsen,1
+TESLA (USA),Model X,AAY,2020,E,Niedersachsen,33
+TESLA (USA),Model 3,AAQ,2020,E,Niedersachsen,243
+TESLA (USA),Model 3,AAR,2020,E,Niedersachsen,668
+TESLA (USA),Model 3,AAS,2020,E,Niedersachsen,165
+TESLA (USA),Model 3,AAZ,2020,E,Niedersachsen,158
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Niedersachsen,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Niedersachsen,5
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Niedersachsen,5
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Niedersachsen,128
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Niedersachsen,4772
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Niedersachsen,110
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Niedersachsen,4833
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Niedersachsen,1878
+VOLKSWAGEN (D),UP!,BKY,2020,E,Niedersachsen,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Niedersachsen,2104
+VOLVO (S),Polestar 2,BRO,2020,E,Niedersachsen,83
+VOLVO (S),XC40,BTE,2020,E,Niedersachsen,10
+AUDI (D),e-tron S,BVM,2020,E,Nordrhein-Westfalen,1
+AUDI (D),e-tron S Sportback,BVN,2020,E,Nordrhein-Westfalen,3
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Nordrhein-Westfalen,81
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Nordrhein-Westfalen,205
+AUDI (D),e-tron 50,BSK,2020,E,Nordrhein-Westfalen,374
+AUDI (D),e-tron 55,BSL,2020,E,Nordrhein-Westfalen,301
+AUDI (D),Audi e-tron,BPG,2020,E,Nordrhein-Westfalen,125
+BMW,iX3,DAQ,2020,E,Nordrhein-Westfalen,0
+BMW,"i3s,i3",BSI,2020,E,Nordrhein-Westfalen,1504
+BMW,Cooper SE,CYC,2020,E,Nordrhein-Westfalen,981
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Nordrhein-Westfalen,33
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Nordrhein-Westfalen,10
+DAIMLER (D),eVito Tourer,AAI,2020,E,Nordrhein-Westfalen,3
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Nordrhein-Westfalen,21
+DAIMLER (D),eVito Tourer,IAU,2020,E,Nordrhein-Westfalen,8
+DAIMLER (D),EQ forfour,ADK,2020,E,Nordrhein-Westfalen,773
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Nordrhein-Westfalen,807
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Nordrhein-Westfalen,1668
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Nordrhein-Westfalen,3
+DAIMLER (D),EQA 250,BBR,2020,E,Nordrhein-Westfalen,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Nordrhein-Westfalen,450
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Nordrhein-Westfalen,10
+DAIMLER (D),EQV,ASK,2020,E,Nordrhein-Westfalen,125
+DAIMLER (D),EQV,ASL,2020,E,Nordrhein-Westfalen,22
+E.GO,e.GO Life First Edition,AAB,2020,E,Nordrhein-Westfalen,217
+FCA (I),500,AVN,2020,E,Nordrhein-Westfalen,199
+FORD (D),Mustang Mach-E,BUN,2020,E,Nordrhein-Westfalen,119
+FORD (D),Mustang Mach-E,BUO,2020,E,Nordrhein-Westfalen,65
+HONDA MOTOR (J),Honda e,AEW,2020,E,Nordrhein-Westfalen,278
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Nordrhein-Westfalen,1573
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Nordrhein-Westfalen,421
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Nordrhein-Westfalen,482
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Nordrhein-Westfalen,863
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Nordrhein-Westfalen,254
+JIANGLING (RC),U5,AAD,2020,E,Nordrhein-Westfalen,17
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Nordrhein-Westfalen,827
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Nordrhein-Westfalen,11
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Nordrhein-Westfalen,369
+KIA MOTOR (ROK),SOUL,AII,2020,E,Nordrhein-Westfalen,9
+MAZDA (J),MAZDA MX-30,AII,2020,E,Nordrhein-Westfalen,1238
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Nordrhein-Westfalen,979
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Nordrhein-Westfalen,112
+OPEL,Ampera-e,AGT,2020,E,Nordrhein-Westfalen,150
+PEUGEOT (F),iOn,AOG,2020,E,Nordrhein-Westfalen,39
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Nordrhein-Westfalen,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Nordrhein-Westfalen,26
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Nordrhein-Westfalen,231
+PORSCHE,Taycan 4S,ALZ,2020,E,Nordrhein-Westfalen,293
+PORSCHE,Taycan 4S,AMA,2020,E,Nordrhein-Westfalen,35
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Nordrhein-Westfalen,1
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Nordrhein-Westfalen,1203
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Nordrhein-Westfalen,98
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Nordrhein-Westfalen,247
+PSA AUTOMOBILES (F),208,ACH,2020,E,Nordrhein-Westfalen,565
+RENAULT (F),TWINGO,BNZ,2020,E,Nordrhein-Westfalen,262
+RENAULT (F),ZOE,AZX,2020,E,Nordrhein-Westfalen,15
+RENAULT (F),ZOE,BIA,2020,E,Nordrhein-Westfalen,54
+RENAULT (F),ZOE,BMT,2020,E,Nordrhein-Westfalen,6791
+SEAT (E),MII,APB,2020,E,Nordrhein-Westfalen,765
+SKODA (CZ),CITIGO,AUN,2020,E,Nordrhein-Westfalen,1088
+TESLA (USA),Model S,AAL,2020,E,Nordrhein-Westfalen,3
+TESLA (USA),Model S,AAT,2020,E,Nordrhein-Westfalen,49
+TESLA (USA),Model S,AAV,2020,E,Nordrhein-Westfalen,12
+TESLA (USA),Model S,AAX,2020,E,Nordrhein-Westfalen,100
+TESLA (USA),Model X,AAP,2020,E,Nordrhein-Westfalen,2
+TESLA (USA),Model X,AAU,2020,E,Nordrhein-Westfalen,50
+TESLA (USA),Model X,AAW,2020,E,Nordrhein-Westfalen,5
+TESLA (USA),Model X,AAY,2020,E,Nordrhein-Westfalen,74
+TESLA (USA),Model 3,AAQ,2020,E,Nordrhein-Westfalen,696
+TESLA (USA),Model 3,AAR,2020,E,Nordrhein-Westfalen,1749
+TESLA (USA),Model 3,AAS,2020,E,Nordrhein-Westfalen,521
+TESLA (USA),Model 3,AAZ,2020,E,Nordrhein-Westfalen,421
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Nordrhein-Westfalen,20
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Nordrhein-Westfalen,2
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Nordrhein-Westfalen,2
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Nordrhein-Westfalen,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Nordrhein-Westfalen,4116
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Nordrhein-Westfalen,5
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Nordrhein-Westfalen,1807
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Nordrhein-Westfalen,102
+VOLKSWAGEN (D),UP!,BKY,2020,E,Nordrhein-Westfalen,2
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Nordrhein-Westfalen,2132
+VOLVO (S),Polestar 2,BRO,2020,E,Nordrhein-Westfalen,306
+VOLVO (S),XC40,BTE,2020,E,Nordrhein-Westfalen,43
+AUDI (D),e-tron S,BVM,2020,E,Rheinland-Pfalz,1
+AUDI (D),e-tron S Sportback,BVN,2020,E,Rheinland-Pfalz,4
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Rheinland-Pfalz,15
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Rheinland-Pfalz,33
+AUDI (D),e-tron 50,BSK,2020,E,Rheinland-Pfalz,37
+AUDI (D),e-tron 55,BSL,2020,E,Rheinland-Pfalz,65
+AUDI (D),Audi e-tron,BPG,2020,E,Rheinland-Pfalz,18
+BMW,iX3,DAQ,2020,E,Rheinland-Pfalz,0
+BMW,"i3s,i3",BSI,2020,E,Rheinland-Pfalz,275
+BMW,Cooper SE,CYC,2020,E,Rheinland-Pfalz,167
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Rheinland-Pfalz,7
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Rheinland-Pfalz,4
+DAIMLER (D),eVito Tourer,AAI,2020,E,Rheinland-Pfalz,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Rheinland-Pfalz,4
+DAIMLER (D),eVito Tourer,IAU,2020,E,Rheinland-Pfalz,1
+DAIMLER (D),EQ forfour,ADK,2020,E,Rheinland-Pfalz,168
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Rheinland-Pfalz,122
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Rheinland-Pfalz,287
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Rheinland-Pfalz,1
+DAIMLER (D),EQA 250,BBR,2020,E,Rheinland-Pfalz,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Rheinland-Pfalz,113
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Rheinland-Pfalz,4
+DAIMLER (D),EQV,ASK,2020,E,Rheinland-Pfalz,18
+DAIMLER (D),EQV,ASL,2020,E,Rheinland-Pfalz,3
+E.GO,e.GO Life First Edition,AAB,2020,E,Rheinland-Pfalz,33
+FCA (I),500,AVN,2020,E,Rheinland-Pfalz,30
+FORD (D),Mustang Mach-E,BUN,2020,E,Rheinland-Pfalz,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Rheinland-Pfalz,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Rheinland-Pfalz,58
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Rheinland-Pfalz,494
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Rheinland-Pfalz,109
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Rheinland-Pfalz,123
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Rheinland-Pfalz,355
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Rheinland-Pfalz,55
+JIANGLING (RC),U5,AAD,2020,E,Rheinland-Pfalz,4
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Rheinland-Pfalz,202
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Rheinland-Pfalz,1
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Rheinland-Pfalz,122
+KIA MOTOR (ROK),SOUL,AII,2020,E,Rheinland-Pfalz,4
+MAZDA (J),MAZDA MX-30,AII,2020,E,Rheinland-Pfalz,181
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Rheinland-Pfalz,177
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Rheinland-Pfalz,17
+OPEL,Ampera-e,AGT,2020,E,Rheinland-Pfalz,22
+PEUGEOT (F),iOn,AOG,2020,E,Rheinland-Pfalz,13
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Rheinland-Pfalz,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Rheinland-Pfalz,5
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Rheinland-Pfalz,34
+PORSCHE,Taycan 4S,ALZ,2020,E,Rheinland-Pfalz,44
+PORSCHE,Taycan 4S,AMA,2020,E,Rheinland-Pfalz,5
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Rheinland-Pfalz,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Rheinland-Pfalz,316
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Rheinland-Pfalz,9
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Rheinland-Pfalz,80
+PSA AUTOMOBILES (F),208,ACH,2020,E,Rheinland-Pfalz,207
+RENAULT (F),TWINGO,BNZ,2020,E,Rheinland-Pfalz,38
+RENAULT (F),ZOE,AZX,2020,E,Rheinland-Pfalz,9
+RENAULT (F),ZOE,BIA,2020,E,Rheinland-Pfalz,9
+RENAULT (F),ZOE,BMT,2020,E,Rheinland-Pfalz,1429
+SEAT (E),MII,APB,2020,E,Rheinland-Pfalz,93
+SKODA (CZ),CITIGO,AUN,2020,E,Rheinland-Pfalz,206
+TESLA (USA),Model S,AAL,2020,E,Rheinland-Pfalz,0
+TESLA (USA),Model S,AAT,2020,E,Rheinland-Pfalz,12
+TESLA (USA),Model S,AAV,2020,E,Rheinland-Pfalz,3
+TESLA (USA),Model S,AAX,2020,E,Rheinland-Pfalz,26
+TESLA (USA),Model X,AAP,2020,E,Rheinland-Pfalz,1
+TESLA (USA),Model X,AAU,2020,E,Rheinland-Pfalz,10
+TESLA (USA),Model X,AAW,2020,E,Rheinland-Pfalz,2
+TESLA (USA),Model X,AAY,2020,E,Rheinland-Pfalz,19
+TESLA (USA),Model 3,AAQ,2020,E,Rheinland-Pfalz,145
+TESLA (USA),Model 3,AAR,2020,E,Rheinland-Pfalz,450
+TESLA (USA),Model 3,AAS,2020,E,Rheinland-Pfalz,141
+TESLA (USA),Model 3,AAZ,2020,E,Rheinland-Pfalz,108
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Rheinland-Pfalz,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Rheinland-Pfalz,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Rheinland-Pfalz,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Rheinland-Pfalz,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Rheinland-Pfalz,824
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Rheinland-Pfalz,4
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Rheinland-Pfalz,407
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Rheinland-Pfalz,15
+VOLKSWAGEN (D),UP!,BKY,2020,E,Rheinland-Pfalz,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Rheinland-Pfalz,386
+VOLVO (S),Polestar 2,BRO,2020,E,Rheinland-Pfalz,29
+VOLVO (S),XC40,BTE,2020,E,Rheinland-Pfalz,3
+AUDI (D),e-tron S,BVM,2020,E,Saarland,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Saarland,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Saarland,5
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Saarland,7
+AUDI (D),e-tron 50,BSK,2020,E,Saarland,4
+AUDI (D),e-tron 55,BSL,2020,E,Saarland,7
+AUDI (D),Audi e-tron,BPG,2020,E,Saarland,5
+BMW,iX3,DAQ,2020,E,Saarland,0
+BMW,"i3s,i3",BSI,2020,E,Saarland,143
+BMW,Cooper SE,CYC,2020,E,Saarland,58
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Saarland,14
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Saarland,0
+DAIMLER (D),eVito Tourer,AAI,2020,E,Saarland,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Saarland,0
+DAIMLER (D),eVito Tourer,IAU,2020,E,Saarland,0
+DAIMLER (D),EQ forfour,ADK,2020,E,Saarland,9
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Saarland,20
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Saarland,41
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Saarland,0
+DAIMLER (D),EQA 250,BBR,2020,E,Saarland,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Saarland,19
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Saarland,1
+DAIMLER (D),EQV,ASK,2020,E,Saarland,0
+DAIMLER (D),EQV,ASL,2020,E,Saarland,0
+E.GO,e.GO Life First Edition,AAB,2020,E,Saarland,1
+FCA (I),500,AVN,2020,E,Saarland,5
+FORD (D),Mustang Mach-E,BUN,2020,E,Saarland,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Saarland,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Saarland,13
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Saarland,109
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Saarland,35
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Saarland,33
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Saarland,65
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Saarland,10
+JIANGLING (RC),U5,AAD,2020,E,Saarland,4
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Saarland,20
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Saarland,0
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Saarland,18
+KIA MOTOR (ROK),SOUL,AII,2020,E,Saarland,2
+MAZDA (J),MAZDA MX-30,AII,2020,E,Saarland,46
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Saarland,28
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Saarland,3
+OPEL,Ampera-e,AGT,2020,E,Saarland,3
+PEUGEOT (F),iOn,AOG,2020,E,Saarland,10
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Saarland,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Saarland,2
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Saarland,6
+PORSCHE,Taycan 4S,ALZ,2020,E,Saarland,13
+PORSCHE,Taycan 4S,AMA,2020,E,Saarland,1
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Saarland,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Saarland,49
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Saarland,7
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Saarland,27
+PSA AUTOMOBILES (F),208,ACH,2020,E,Saarland,80
+RENAULT (F),TWINGO,BNZ,2020,E,Saarland,11
+RENAULT (F),ZOE,AZX,2020,E,Saarland,0
+RENAULT (F),ZOE,BIA,2020,E,Saarland,6
+RENAULT (F),ZOE,BMT,2020,E,Saarland,415
+SEAT (E),MII,APB,2020,E,Saarland,15
+SKODA (CZ),CITIGO,AUN,2020,E,Saarland,50
+TESLA (USA),Model S,AAL,2020,E,Saarland,0
+TESLA (USA),Model S,AAT,2020,E,Saarland,4
+TESLA (USA),Model S,AAV,2020,E,Saarland,0
+TESLA (USA),Model S,AAX,2020,E,Saarland,3
+TESLA (USA),Model X,AAP,2020,E,Saarland,0
+TESLA (USA),Model X,AAU,2020,E,Saarland,1
+TESLA (USA),Model X,AAW,2020,E,Saarland,0
+TESLA (USA),Model X,AAY,2020,E,Saarland,6
+TESLA (USA),Model 3,AAQ,2020,E,Saarland,23
+TESLA (USA),Model 3,AAR,2020,E,Saarland,76
+TESLA (USA),Model 3,AAS,2020,E,Saarland,14
+TESLA (USA),Model 3,AAZ,2020,E,Saarland,19
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Saarland,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Saarland,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Saarland,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Saarland,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Saarland,152
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Saarland,0
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Saarland,107
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Saarland,6
+VOLKSWAGEN (D),UP!,BKY,2020,E,Saarland,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Saarland,99
+VOLVO (S),Polestar 2,BRO,2020,E,Saarland,1
+VOLVO (S),XC40,BTE,2020,E,Saarland,0
+AUDI (D),e-tron S,BVM,2020,E,Sachsen,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Sachsen,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Sachsen,15
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Sachsen,15
+AUDI (D),e-tron 50,BSK,2020,E,Sachsen,14
+AUDI (D),e-tron 55,BSL,2020,E,Sachsen,13
+AUDI (D),Audi e-tron,BPG,2020,E,Sachsen,18
+BMW,iX3,DAQ,2020,E,Sachsen,0
+BMW,"i3s,i3",BSI,2020,E,Sachsen,166
+BMW,Cooper SE,CYC,2020,E,Sachsen,97
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Sachsen,4
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Sachsen,12
+DAIMLER (D),eVito Tourer,AAI,2020,E,Sachsen,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Sachsen,7
+DAIMLER (D),eVito Tourer,IAU,2020,E,Sachsen,1
+DAIMLER (D),EQ forfour,ADK,2020,E,Sachsen,118
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Sachsen,84
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Sachsen,266
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Sachsen,1
+DAIMLER (D),EQA 250,BBR,2020,E,Sachsen,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Sachsen,39
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Sachsen,3
+DAIMLER (D),EQV,ASK,2020,E,Sachsen,18
+DAIMLER (D),EQV,ASL,2020,E,Sachsen,0
+E.GO,e.GO Life First Edition,AAB,2020,E,Sachsen,5
+FCA (I),500,AVN,2020,E,Sachsen,23
+FORD (D),Mustang Mach-E,BUN,2020,E,Sachsen,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Sachsen,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Sachsen,46
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Sachsen,176
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Sachsen,111
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Sachsen,109
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Sachsen,92
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Sachsen,27
+JIANGLING (RC),U5,AAD,2020,E,Sachsen,2
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Sachsen,108
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Sachsen,1
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Sachsen,39
+KIA MOTOR (ROK),SOUL,AII,2020,E,Sachsen,3
+MAZDA (J),MAZDA MX-30,AII,2020,E,Sachsen,136
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Sachsen,120
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Sachsen,14
+OPEL,Ampera-e,AGT,2020,E,Sachsen,30
+PEUGEOT (F),iOn,AOG,2020,E,Sachsen,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Sachsen,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Sachsen,11
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Sachsen,19
+PORSCHE,Taycan 4S,ALZ,2020,E,Sachsen,28
+PORSCHE,Taycan 4S,AMA,2020,E,Sachsen,1
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Sachsen,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Sachsen,242
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Sachsen,10
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Sachsen,30
+PSA AUTOMOBILES (F),208,ACH,2020,E,Sachsen,68
+RENAULT (F),TWINGO,BNZ,2020,E,Sachsen,48
+RENAULT (F),ZOE,AZX,2020,E,Sachsen,8
+RENAULT (F),ZOE,BIA,2020,E,Sachsen,19
+RENAULT (F),ZOE,BMT,2020,E,Sachsen,895
+SEAT (E),MII,APB,2020,E,Sachsen,67
+SKODA (CZ),CITIGO,AUN,2020,E,Sachsen,201
+TESLA (USA),Model S,AAL,2020,E,Sachsen,0
+TESLA (USA),Model S,AAT,2020,E,Sachsen,5
+TESLA (USA),Model S,AAV,2020,E,Sachsen,0
+TESLA (USA),Model S,AAX,2020,E,Sachsen,13
+TESLA (USA),Model X,AAP,2020,E,Sachsen,0
+TESLA (USA),Model X,AAU,2020,E,Sachsen,2
+TESLA (USA),Model X,AAW,2020,E,Sachsen,1
+TESLA (USA),Model X,AAY,2020,E,Sachsen,6
+TESLA (USA),Model 3,AAQ,2020,E,Sachsen,49
+TESLA (USA),Model 3,AAR,2020,E,Sachsen,204
+TESLA (USA),Model 3,AAS,2020,E,Sachsen,33
+TESLA (USA),Model 3,AAZ,2020,E,Sachsen,43
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Sachsen,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Sachsen,1
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Sachsen,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Sachsen,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Sachsen,274
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Sachsen,4
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Sachsen,367
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Sachsen,38
+VOLKSWAGEN (D),UP!,BKY,2020,E,Sachsen,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Sachsen,251
+VOLVO (S),Polestar 2,BRO,2020,E,Sachsen,15
+VOLVO (S),XC40,BTE,2020,E,Sachsen,3
+AUDI (D),e-tron S,BVM,2020,E,Sachsen-Anhalt,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Sachsen-Anhalt,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Sachsen-Anhalt,7
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Sachsen-Anhalt,12
+AUDI (D),e-tron 50,BSK,2020,E,Sachsen-Anhalt,20
+AUDI (D),e-tron 55,BSL,2020,E,Sachsen-Anhalt,14
+AUDI (D),Audi e-tron,BPG,2020,E,Sachsen-Anhalt,6
+BMW,iX3,DAQ,2020,E,Sachsen-Anhalt,0
+BMW,"i3s,i3",BSI,2020,E,Sachsen-Anhalt,62
+BMW,Cooper SE,CYC,2020,E,Sachsen-Anhalt,30
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Sachsen-Anhalt,4
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Sachsen-Anhalt,2
+DAIMLER (D),eVito Tourer,AAI,2020,E,Sachsen-Anhalt,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Sachsen-Anhalt,1
+DAIMLER (D),eVito Tourer,IAU,2020,E,Sachsen-Anhalt,0
+DAIMLER (D),EQ forfour,ADK,2020,E,Sachsen-Anhalt,34
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Sachsen-Anhalt,34
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Sachsen-Anhalt,79
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Sachsen-Anhalt,0
+DAIMLER (D),EQA 250,BBR,2020,E,Sachsen-Anhalt,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Sachsen-Anhalt,24
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Sachsen-Anhalt,2
+DAIMLER (D),EQV,ASK,2020,E,Sachsen-Anhalt,6
+DAIMLER (D),EQV,ASL,2020,E,Sachsen-Anhalt,0
+E.GO,e.GO Life First Edition,AAB,2020,E,Sachsen-Anhalt,2
+FCA (I),500,AVN,2020,E,Sachsen-Anhalt,18
+FORD (D),Mustang Mach-E,BUN,2020,E,Sachsen-Anhalt,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Sachsen-Anhalt,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Sachsen-Anhalt,17
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Sachsen-Anhalt,136
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Sachsen-Anhalt,36
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Sachsen-Anhalt,54
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Sachsen-Anhalt,43
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Sachsen-Anhalt,7
+JIANGLING (RC),U5,AAD,2020,E,Sachsen-Anhalt,4
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Sachsen-Anhalt,57
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Sachsen-Anhalt,4
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Sachsen-Anhalt,30
+KIA MOTOR (ROK),SOUL,AII,2020,E,Sachsen-Anhalt,6
+MAZDA (J),MAZDA MX-30,AII,2020,E,Sachsen-Anhalt,74
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Sachsen-Anhalt,46
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Sachsen-Anhalt,3
+OPEL,Ampera-e,AGT,2020,E,Sachsen-Anhalt,7
+PEUGEOT (F),iOn,AOG,2020,E,Sachsen-Anhalt,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Sachsen-Anhalt,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Sachsen-Anhalt,2
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Sachsen-Anhalt,5
+PORSCHE,Taycan 4S,ALZ,2020,E,Sachsen-Anhalt,9
+PORSCHE,Taycan 4S,AMA,2020,E,Sachsen-Anhalt,5
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Sachsen-Anhalt,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Sachsen-Anhalt,78
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Sachsen-Anhalt,0
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Sachsen-Anhalt,18
+PSA AUTOMOBILES (F),208,ACH,2020,E,Sachsen-Anhalt,41
+RENAULT (F),TWINGO,BNZ,2020,E,Sachsen-Anhalt,60
+RENAULT (F),ZOE,AZX,2020,E,Sachsen-Anhalt,3
+RENAULT (F),ZOE,BIA,2020,E,Sachsen-Anhalt,17
+RENAULT (F),ZOE,BMT,2020,E,Sachsen-Anhalt,253
+SEAT (E),MII,APB,2020,E,Sachsen-Anhalt,23
+SKODA (CZ),CITIGO,AUN,2020,E,Sachsen-Anhalt,122
+TESLA (USA),Model S,AAL,2020,E,Sachsen-Anhalt,0
+TESLA (USA),Model S,AAT,2020,E,Sachsen-Anhalt,3
+TESLA (USA),Model S,AAV,2020,E,Sachsen-Anhalt,1
+TESLA (USA),Model S,AAX,2020,E,Sachsen-Anhalt,5
+TESLA (USA),Model X,AAP,2020,E,Sachsen-Anhalt,0
+TESLA (USA),Model X,AAU,2020,E,Sachsen-Anhalt,3
+TESLA (USA),Model X,AAW,2020,E,Sachsen-Anhalt,0
+TESLA (USA),Model X,AAY,2020,E,Sachsen-Anhalt,9
+TESLA (USA),Model 3,AAQ,2020,E,Sachsen-Anhalt,23
+TESLA (USA),Model 3,AAR,2020,E,Sachsen-Anhalt,94
+TESLA (USA),Model 3,AAS,2020,E,Sachsen-Anhalt,22
+TESLA (USA),Model 3,AAZ,2020,E,Sachsen-Anhalt,20
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Sachsen-Anhalt,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Sachsen-Anhalt,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Sachsen-Anhalt,2
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Sachsen-Anhalt,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Sachsen-Anhalt,140
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Sachsen-Anhalt,2
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Sachsen-Anhalt,182
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Sachsen-Anhalt,21
+VOLKSWAGEN (D),UP!,BKY,2020,E,Sachsen-Anhalt,1
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Sachsen-Anhalt,155
+VOLVO (S),Polestar 2,BRO,2020,E,Sachsen-Anhalt,7
+VOLVO (S),XC40,BTE,2020,E,Sachsen-Anhalt,0
+AUDI (D),e-tron S,BVM,2020,E,Schleswig-Holstein,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Schleswig-Holstein,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Schleswig-Holstein,15
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Schleswig-Holstein,11
+AUDI (D),e-tron 50,BSK,2020,E,Schleswig-Holstein,35
+AUDI (D),e-tron 55,BSL,2020,E,Schleswig-Holstein,25
+AUDI (D),Audi e-tron,BPG,2020,E,Schleswig-Holstein,16
+BMW,iX3,DAQ,2020,E,Schleswig-Holstein,0
+BMW,"i3s,i3",BSI,2020,E,Schleswig-Holstein,247
+BMW,Cooper SE,CYC,2020,E,Schleswig-Holstein,133
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Schleswig-Holstein,1
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Schleswig-Holstein,2
+DAIMLER (D),eVito Tourer,AAI,2020,E,Schleswig-Holstein,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Schleswig-Holstein,4
+DAIMLER (D),eVito Tourer,IAU,2020,E,Schleswig-Holstein,1
+DAIMLER (D),EQ forfour,ADK,2020,E,Schleswig-Holstein,207
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Schleswig-Holstein,173
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Schleswig-Holstein,271
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Schleswig-Holstein,0
+DAIMLER (D),EQA 250,BBR,2020,E,Schleswig-Holstein,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Schleswig-Holstein,74
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Schleswig-Holstein,3
+DAIMLER (D),EQV,ASK,2020,E,Schleswig-Holstein,27
+DAIMLER (D),EQV,ASL,2020,E,Schleswig-Holstein,2
+E.GO,e.GO Life First Edition,AAB,2020,E,Schleswig-Holstein,8
+FCA (I),500,AVN,2020,E,Schleswig-Holstein,53
+FORD (D),Mustang Mach-E,BUN,2020,E,Schleswig-Holstein,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Schleswig-Holstein,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Schleswig-Holstein,46
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Schleswig-Holstein,403
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Schleswig-Holstein,98
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Schleswig-Holstein,95
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Schleswig-Holstein,246
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Schleswig-Holstein,57
+JIANGLING (RC),U5,AAD,2020,E,Schleswig-Holstein,5
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Schleswig-Holstein,171
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Schleswig-Holstein,2
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Schleswig-Holstein,76
+KIA MOTOR (ROK),SOUL,AII,2020,E,Schleswig-Holstein,6
+MAZDA (J),MAZDA MX-30,AII,2020,E,Schleswig-Holstein,131
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Schleswig-Holstein,78
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Schleswig-Holstein,20
+OPEL,Ampera-e,AGT,2020,E,Schleswig-Holstein,5
+PEUGEOT (F),iOn,AOG,2020,E,Schleswig-Holstein,1
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Schleswig-Holstein,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Schleswig-Holstein,5
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Schleswig-Holstein,26
+PORSCHE,Taycan 4S,ALZ,2020,E,Schleswig-Holstein,22
+PORSCHE,Taycan 4S,AMA,2020,E,Schleswig-Holstein,4
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Schleswig-Holstein,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Schleswig-Holstein,183
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Schleswig-Holstein,1
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Schleswig-Holstein,55
+PSA AUTOMOBILES (F),208,ACH,2020,E,Schleswig-Holstein,110
+RENAULT (F),TWINGO,BNZ,2020,E,Schleswig-Holstein,66
+RENAULT (F),ZOE,AZX,2020,E,Schleswig-Holstein,6
+RENAULT (F),ZOE,BIA,2020,E,Schleswig-Holstein,7
+RENAULT (F),ZOE,BMT,2020,E,Schleswig-Holstein,1611
+SEAT (E),MII,APB,2020,E,Schleswig-Holstein,66
+SKODA (CZ),CITIGO,AUN,2020,E,Schleswig-Holstein,176
+TESLA (USA),Model S,AAL,2020,E,Schleswig-Holstein,1
+TESLA (USA),Model S,AAT,2020,E,Schleswig-Holstein,6
+TESLA (USA),Model S,AAV,2020,E,Schleswig-Holstein,3
+TESLA (USA),Model S,AAX,2020,E,Schleswig-Holstein,16
+TESLA (USA),Model X,AAP,2020,E,Schleswig-Holstein,0
+TESLA (USA),Model X,AAU,2020,E,Schleswig-Holstein,4
+TESLA (USA),Model X,AAW,2020,E,Schleswig-Holstein,1
+TESLA (USA),Model X,AAY,2020,E,Schleswig-Holstein,15
+TESLA (USA),Model 3,AAQ,2020,E,Schleswig-Holstein,120
+TESLA (USA),Model 3,AAR,2020,E,Schleswig-Holstein,331
+TESLA (USA),Model 3,AAS,2020,E,Schleswig-Holstein,85
+TESLA (USA),Model 3,AAZ,2020,E,Schleswig-Holstein,83
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Schleswig-Holstein,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Schleswig-Holstein,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Schleswig-Holstein,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Schleswig-Holstein,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Schleswig-Holstein,649
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Schleswig-Holstein,0
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Schleswig-Holstein,329
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Schleswig-Holstein,14
+VOLKSWAGEN (D),UP!,BKY,2020,E,Schleswig-Holstein,1
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Schleswig-Holstein,733
+VOLVO (S),Polestar 2,BRO,2020,E,Schleswig-Holstein,55
+VOLVO (S),XC40,BTE,2020,E,Schleswig-Holstein,2
+AUDI (D),e-tron S,BVM,2020,E,Thüringen,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,Thüringen,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,Thüringen,8
+AUDI (D),e-tron Sportback 55,BSN,2020,E,Thüringen,16
+AUDI (D),e-tron 50,BSK,2020,E,Thüringen,45
+AUDI (D),e-tron 55,BSL,2020,E,Thüringen,15
+AUDI (D),Audi e-tron,BPG,2020,E,Thüringen,13
+BMW,iX3,DAQ,2020,E,Thüringen,0
+BMW,"i3s,i3",BSI,2020,E,Thüringen,80
+BMW,Cooper SE,CYC,2020,E,Thüringen,21
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,Thüringen,4
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,Thüringen,3
+DAIMLER (D),eVito Tourer,AAI,2020,E,Thüringen,0
+DAIMLER (D),eVito Tourer,AAJ,2020,E,Thüringen,1
+DAIMLER (D),eVito Tourer,IAU,2020,E,Thüringen,3
+DAIMLER (D),EQ forfour,ADK,2020,E,Thüringen,76
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,Thüringen,62
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,Thüringen,120
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,Thüringen,0
+DAIMLER (D),EQA 250,BBR,2020,E,Thüringen,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,Thüringen,34
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,Thüringen,3
+DAIMLER (D),EQV,ASK,2020,E,Thüringen,6
+DAIMLER (D),EQV,ASL,2020,E,Thüringen,1
+E.GO,e.GO Life First Edition,AAB,2020,E,Thüringen,2
+FCA (I),500,AVN,2020,E,Thüringen,2
+FORD (D),Mustang Mach-E,BUN,2020,E,Thüringen,0
+FORD (D),Mustang Mach-E,BUO,2020,E,Thüringen,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,Thüringen,23
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,Thüringen,128
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,Thüringen,37
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,Thüringen,65
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,Thüringen,52
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,Thüringen,6
+JIANGLING (RC),U5,AAD,2020,E,Thüringen,2
+KIA MOTOR (ROK),NIRO,AIB,2020,E,Thüringen,50
+KIA MOTOR (ROK),NIRO,AIC,2020,E,Thüringen,3
+KIA MOTOR (ROK),SOUL,AIH,2020,E,Thüringen,43
+KIA MOTOR (ROK),SOUL,AII,2020,E,Thüringen,1
+MAZDA (J),MAZDA MX-30,AII,2020,E,Thüringen,66
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,Thüringen,46
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,Thüringen,5
+OPEL,Ampera-e,AGT,2020,E,Thüringen,18
+PEUGEOT (F),iOn,AOG,2020,E,Thüringen,3
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,Thüringen,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,Thüringen,7
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,Thüringen,3
+PORSCHE,Taycan 4S,ALZ,2020,E,Thüringen,16
+PORSCHE,Taycan 4S,AMA,2020,E,Thüringen,0
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,Thüringen,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,Thüringen,144
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,Thüringen,0
+PSA AUTOMOBILES (F),2008,ACM,2020,E,Thüringen,10
+PSA AUTOMOBILES (F),208,ACH,2020,E,Thüringen,32
+RENAULT (F),TWINGO,BNZ,2020,E,Thüringen,19
+RENAULT (F),ZOE,AZX,2020,E,Thüringen,1
+RENAULT (F),ZOE,BIA,2020,E,Thüringen,4
+RENAULT (F),ZOE,BMT,2020,E,Thüringen,319
+SEAT (E),MII,APB,2020,E,Thüringen,34
+SKODA (CZ),CITIGO,AUN,2020,E,Thüringen,143
+TESLA (USA),Model S,AAL,2020,E,Thüringen,0
+TESLA (USA),Model S,AAT,2020,E,Thüringen,2
+TESLA (USA),Model S,AAV,2020,E,Thüringen,0
+TESLA (USA),Model S,AAX,2020,E,Thüringen,4
+TESLA (USA),Model X,AAP,2020,E,Thüringen,0
+TESLA (USA),Model X,AAU,2020,E,Thüringen,0
+TESLA (USA),Model X,AAW,2020,E,Thüringen,0
+TESLA (USA),Model X,AAY,2020,E,Thüringen,5
+TESLA (USA),Model 3,AAQ,2020,E,Thüringen,32
+TESLA (USA),Model 3,AAR,2020,E,Thüringen,99
+TESLA (USA),Model 3,AAS,2020,E,Thüringen,23
+TESLA (USA),Model 3,AAZ,2020,E,Thüringen,25
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,Thüringen,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,Thüringen,1
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,Thüringen,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,Thüringen,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,Thüringen,144
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,Thüringen,4
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,Thüringen,224
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,Thüringen,20
+VOLKSWAGEN (D),UP!,BKY,2020,E,Thüringen,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,Thüringen,176
+VOLVO (S),Polestar 2,BRO,2020,E,Thüringen,6
+VOLVO (S),XC40,BTE,2020,E,Thüringen,2
+AUDI (D),e-tron S,BVM,2020,E,special,0
+AUDI (D),e-tron S Sportback,BVN,2020,E,special,0
+AUDI (D),e-tron Sportback 50,BSM,2020,E,special,1
+AUDI (D),e-tron Sportback 55,BSN,2020,E,special,6
+AUDI (D),e-tron 50,BSK,2020,E,special,1
+AUDI (D),e-tron 55,BSL,2020,E,special,16
+AUDI (D),Audi e-tron,BPG,2020,E,special,0
+BMW,iX3,DAQ,2020,E,special,0
+BMW,"i3s,i3",BSI,2020,E,special,0
+BMW,Cooper SE,CYC,2020,E,special,0
+CITROEN (F),"C-ZERO,C-Zero",AJT,2020,E,special,0
+CITROEN (F),JUMPY SPACETOURER,BBW,2020,E,special,0
+DAIMLER (D),eVito Tourer,AAI,2020,E,special,100
+DAIMLER (D),eVito Tourer,AAJ,2020,E,special,0
+DAIMLER (D),eVito Tourer,IAU,2020,E,special,0
+DAIMLER (D),EQ forfour,ADK,2020,E,special,6
+DAIMLER (D),EQ fortwo cabrio,ADM,2020,E,special,0
+DAIMLER (D),EQ fortwo coupe,ADL,2020,E,special,1
+DAIMLER (D),EQ fortwo coupe,HSF,2020,E,special,0
+DAIMLER (D),EQA 250,BBR,2020,E,special,0
+DAIMLER (D),EQC 400 4MATIC,AKA,2020,E,special,2
+DAIMLER (D),EQC 400 4MATIC,HXW,2020,E,special,0
+DAIMLER (D),EQV,ASK,2020,E,special,0
+DAIMLER (D),EQV,ASL,2020,E,special,0
+E.GO,e.GO Life First Edition,AAB,2020,E,special,0
+FCA (I),500,AVN,2020,E,special,0
+FORD (D),Mustang Mach-E,BUN,2020,E,special,0
+FORD (D),Mustang Mach-E,BUO,2020,E,special,0
+HONDA MOTOR (J),Honda e,AEW,2020,E,special,0
+HYUNDAI MOTOR (CZ),"Kona, Kauai",AFH,2020,E,special,0
+HYUNDAI MOTOR (ROK),IONIQ,AHL,2020,E,special,0
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIO,2020,E,special,0
+HYUNDAI MOTOR (ROK),"Kona, Kauai",AIP,2020,E,special,0
+JAGUAR LAND ROVER (GB),Jaguar I-PACE,AHX,2020,E,special,1
+JIANGLING (RC),U5,AAD,2020,E,special,0
+KIA MOTOR (ROK),NIRO,AIB,2020,E,special,1
+KIA MOTOR (ROK),NIRO,AIC,2020,E,special,0
+KIA MOTOR (ROK),SOUL,AIH,2020,E,special,0
+KIA MOTOR (ROK),SOUL,AII,2020,E,special,0
+MAZDA (J),MAZDA MX-30,AII,2020,E,special,0
+NISSAN (CH),"Nissan Leaf 40kWh,Nissan",ALE,2020,E,special,0
+NISSAN (CH),NISSAN e-NV200,AIA,2020,E,special,0
+OPEL,Ampera-e,AGT,2020,E,special,5
+PEUGEOT (F),iOn,AOG,2020,E,special,0
+PEUGEOT (F),EXPERT Traveller,BBY,2020,E,special,0
+PEUGEOT (F),VIVARO / ZAFIRA LIFE,BBU,2020,E,special,0
+PORSCHE,"Taycan Turbo,Taycan Turbo",ALY,2020,E,special,1
+PORSCHE,Taycan 4S,ALZ,2020,E,special,0
+PORSCHE,Taycan 4S,AMA,2020,E,special,0
+PSA AUTOMOBILES (F),e-C4,ACW,2020,E,special,0
+PSA AUTOMOBILES (F),CORSA,ABX,2020,E,special,0
+PSA AUTOMOBILES (F),DS3 CROSSBACK,ACG,2020,E,special,0
+PSA AUTOMOBILES (F),2008,ACM,2020,E,special,2
+PSA AUTOMOBILES (F),208,ACH,2020,E,special,0
+RENAULT (F),TWINGO,BNZ,2020,E,special,0
+RENAULT (F),ZOE,AZX,2020,E,special,0
+RENAULT (F),ZOE,BIA,2020,E,special,0
+RENAULT (F),ZOE,BMT,2020,E,special,0
+SEAT (E),MII,APB,2020,E,special,0
+SKODA (CZ),CITIGO,AUN,2020,E,special,1
+TESLA (USA),Model S,AAL,2020,E,special,0
+TESLA (USA),Model S,AAT,2020,E,special,0
+TESLA (USA),Model S,AAV,2020,E,special,0
+TESLA (USA),Model S,AAX,2020,E,special,1
+TESLA (USA),Model X,AAP,2020,E,special,0
+TESLA (USA),Model X,AAU,2020,E,special,0
+TESLA (USA),Model X,AAW,2020,E,special,0
+TESLA (USA),Model X,AAY,2020,E,special,0
+TESLA (USA),Model 3,AAQ,2020,E,special,9
+TESLA (USA),Model 3,AAR,2020,E,special,4
+TESLA (USA),Model 3,AAS,2020,E,special,0
+TESLA (USA),Model 3,AAZ,2020,E,special,0
+TOYOTA EUROPE (B),LEXUS UX300E,APE,2020,E,special,0
+VOLKSWAGEN (D),ABT e-Caddy,CMD,2020,E,special,0
+VOLKSWAGEN (D),ABT e-Caravelle 6.1,COA,2020,E,special,0
+VOLKSWAGEN (D),CRAFTER,CGD,2020,E,special,0
+VOLKSWAGEN (D),GOLF,CBP,2020,E,special,1
+VOLKSWAGEN (D),ID.3 PRO S 150 KW,CKW,2020,E,special,0
+VOLKSWAGEN (D),ID.3 PRO 150 KW,CKV,2020,E,special,1
+VOLKSWAGEN (D),ID.4 PRO 150 KW,CLQ,2020,E,special,0
+VOLKSWAGEN (D),UP!,BKY,2020,E,special,0
+VOLKSWAGEN (D),UP!,CKJ,2020,E,special,0
+VOLVO (S),Polestar 2,BRO,2020,E,special,1
+VOLVO (S),XC40,BTE,2020,E,special,0
