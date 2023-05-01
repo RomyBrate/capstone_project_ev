@@ -24,14 +24,14 @@ https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/
 </details>
 
 <details>
-<summary>Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen seit 1955 (xlsx)</summary>
+<summary>Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen (Umwelt)</summary>
 
-https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Fahrzeuge/FZ28/fz28_2023_02.xlsx?__blob=publicationFile&v=6
+https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/Umwelt/n_umwelt_node.html
     
 </details>
 
 <details>
-<summary>Kraftfahrt-Bundesamt - Fahrzeugzulassungen (Übersicht) (html)</summary>
+<summary>Kraftfahrt-Bundesamt - Fahrzeugzulassungen von Personenkraftwagen (Marke, Hersteller) (html)</summary>
 
 https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html
     
