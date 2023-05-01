@@ -2,9 +2,27 @@
 
 ## Introduction
 
-In this project, we aim to analyze the trend of electric car sales in Germany from 2017 to 2021. We will use registration data of electric cars to explore the changes in the market over the years. 
+This project is a Capstone-Project in a Data Analytics Bootcamp from neuefische GmbH. We aim to perform a general overview of the market regarding electric vehicles and the charging stations network, with the following hypotheses:
 
-## Data Source
+H1: The growth of electric vehicle sales is positively correlated with the expansion of charging infrastructure which differs from state to state and which makes some states even more attractive for EV-adoption.
+
+H2: The target group for electric vehicles is primarily young people up to 29 years old and may vary by gender, as they are more likely to understand and embrace e-mobility concepts.
+
+H3: Leading EV companies do not change over time and are not affected locally.
+
+H4: Preferences for charging infrastructure plug types do not vary significantly across different states in Germany.
+
+Our MVP is a Dashboard for the Management of the Company that will cover the following KPIs and additional dashboard features:
+
+KPI1: number of sales of ecars
+KPI2: number of competitors
+KPI3: number of charging stations
+
+DB-Feature1 and 2: Group of Interest broken down by age and gender
+DB-Feature3: Top competitors with additional information on them
+DB-Feature4: Top models of the competition
+DB-Feature5: Map of Germany displaying the locations of the charging stations
+DB-Feature6: Top connector types of charging stations
 
 ## Data Source
 
@@ -37,28 +55,13 @@ https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersic
     
 </details>
 
-
 ## Data Cleaning
 
-We performed several data cleaning steps to prepare the data for analysis. 
+We performed ETL (Extract, Transform, Load) to prepare the data for analysis using various tools and programming languages.
 
-- We filtered the data to only include electric cars.
-- We dropped irrelevant columns such as "Unnamed: 0".
-- We replaced missing values with appropriate values using forward fill method.
-- We converted the data types of some columns from string to integer or float.
-- We merged the data from the different excel files into a single dataframe.
-
-## Data Analysis
-
-We analyzed the data to understand the trends and patterns in electric car sales in Germany. 
-
-- We created visualizations to explore the distribution of electric car sales across different manufacturers, models, and regions.
-- We used statistical methods to identify significant changes in electric car sales over the years.
-- We analyzed the relationship between the power and the number of new registrations of electric cars.
-
-## Conclusion
-
-Our analysis shows that the market for electric cars is growing rapidly in Germany. We observed a significant increase in the number of new registrations of electric cars over the years. We also found that certain manufacturers and models are more popular among buyers. Finally, we found that there is a positive relationship between the power and the number of new registrations of electric cars. 
-
-Overall, our analysis provides valuable insights for car manufacturers, policy makers, and consumers who are interested in the electric car market in Germany.
-
+- We extracted the data from public data sources and imported them into Excel/Sheets and Jupyter Notebook using Python.
+- We transformed the data by filtering the data, dropping irrelevant columns, replacing missing values with appropriate values using forward fill method, and converting the data types of some columns.
+- We loaded the cleaned data into our PostgreSQL server using Dbeaver.
+- We connected the cleaned DataFrames from PostgreSQL to Tableau for visualization.
+- In Tableau we connected the Data Sets with their unique identifiers using the entity-relationship "Many-to-Many (n:n)"
+The tools and programming languages used for the data cleaning and analysis include Python (in Jupyter Notebook), VSC, PostgreSQL (in Dbeaver), Google Sheets/Microsoft Excel, and Tableau.
