@@ -64,4 +64,11 @@ We performed ETL (Extract, Transform, Load) to prepare the data for analysis usi
 - We loaded the cleaned data into our PostgreSQL server using Dbeaver.
 - We connected the cleaned DataFrames from PostgreSQL to Tableau for visualization.
 - In Tableau we connected the Data Sets with their unique identifiers using the entity-relationship "Many-to-Many (n:n)"
-The tools and programming languages used for the data cleaning and analysis include Python (in Jupyter Notebook), VSC, PostgreSQL (in Dbeaver), Google Sheets/Microsoft Excel, and Tableau.
+
+Tools used:
+- Python (in Jupyter Notebook)
+- VSC
+- PostgreSQL (in Dbeaver)
+- Google Sheets/ Microsoft Excel
+- Tableau
+
