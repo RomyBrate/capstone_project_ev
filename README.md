@@ -6,7 +6,37 @@ In this project, we aim to analyze the trend of electric car sales in Germany fr
 
 ## Data Source
 
-We obtained the registration data from the Federal Motor Transport Authority of Germany. The data includes the manufacturer, model, power, fuel type, drive type, body type, and number of new registrations for each electric car. The data is organized into five excel files, one for each year from 2017 to 2021.
+## Data Source
+
+The data used in this project comes from the following sources:
+
+- [Bundesnetzagentur - Ladesäulenregister](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html)
+- [Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen seit 1955 (xlsx)](https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Fahrzeuge/FZ28/fz28_2023_02.xlsx?__blob=publicationFile&v=6)
+- [Kraftfahrt-Bundesamt - Fahrzeugzulassungen (Übersicht) (html)](https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html)
+
+Select the dropdown to access the links:
+
+<details>
+<summary>Bundesnetzagentur - Ladesäulenregister</summary>
+    
+https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html
+    
+</details>
+
+<details>
+<summary>Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen seit 1955 (xlsx)</summary>
+
+https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Fahrzeuge/FZ28/fz28_2023_02.xlsx?__blob=publicationFile&v=6
+    
+</details>
+
+<details>
+<summary>Kraftfahrt-Bundesamt - Fahrzeugzulassungen (Übersicht) (html)</summary>
+
+https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html
+    
+</details>
+
 
 ## Data Cleaning
 
