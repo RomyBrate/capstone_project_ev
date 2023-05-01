@@ -11,8 +11,8 @@ In this project, we aim to analyze the trend of electric car sales in Germany fr
 The data used in this project comes from the following sources:
 
 - [Bundesnetzagentur - Ladesäulenregister](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html)
-- [Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen nach Segmenten und Modellreihen seit 1955 (xlsx)](https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Fahrzeuge/FZ28/fz28_2023_02.xlsx?__blob=publicationFile&v=6)
-- [Kraftfahrt-Bundesamt - Fahrzeugzulassungen (Übersicht) (html)](https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html)
+- [Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen (Umwelt)](https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/Umwelt/n_umwelt_node.html)
+- [Kraftfahrt-Bundesamt - Fahrzeugzulassungen von Personenkraftwagen (Marke, Hersteller)](https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html)
 
 Select the dropdown to access the links:
 
@@ -31,7 +31,7 @@ https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/Umwelt/n_umwelt_node.ht
 </details>
 
 <details>
-<summary>Kraftfahrt-Bundesamt - Fahrzeugzulassungen von Personenkraftwagen (Marke, Hersteller) (html)</summary>
+<summary>Kraftfahrt-Bundesamt - Fahrzeugzulassungen von Personenkraftwagen (Marke, Hersteller)</summary>
 
 https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html
     
