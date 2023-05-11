@@ -1,28 +1,35 @@
-# Ecar Project
+# Driving into the Future: A Data-Driven Analysis for Strategic EV Product Development in Germany
 
 ## Introduction
 
-This project is a Capstone-Project in a Data Analytics Bootcamp from neuefische GmbH. We aim to perform a general overview of the market regarding electric vehicles and the charging stations network, with the following hypotheses:
+This project is a Capstone Project completed during participation in a Data Analytics Bootcamp by neuefische GmbH.
 
-H1: The growth of electric vehicle sales is positively correlated with the expansion of charging infrastructure which differs from state to state and which makes some states even more attractive for EV-adoption.
+We have created an imaginary business case where SONY, a multinational company headquartered in Tokyo, Japan, has announced its plans to enter the EV market in 2025. SONY has hired us as Data Analyst Consultants to work with their R&D Department. Our task is to research the development of the German EV market, identify key car-related figures to consider before launching a new e-car in Germany, and develop a KPI Dashboard.
 
-H2: The target group for electric vehicles is primarily young people up to 29 years old and may vary by gender, as they are more likely to understand and embrace e-mobility concepts.
+The research was conducted as follows:
 
-H3: Leading EV companies do not change over time and are not affected locally.
+We provided a brief, simple, and concise overview of the car market.
 
-H4: Preferences for charging infrastructure plug types do not vary significantly across different states in Germany.
+Next, we investigated three main areas: Competitors, EV Infrastructure, and Target Group.
 
-Our MVP is a Dashboard for the Management of the Company that will cover the following KPIs and additional dashboard features:
+Competitors: We examined the overall competition as well as SONY's domestic competition in Japan.
+EV Infrastructure: Our focus was on the newly gained charging stations.
+Target Group: We analyzed the target group based on gender and usage types.
 
-KPI1: number of sales of ecars
-KPI2: number of competitors
-KPI3: number of charging stations
+Recommendations & Future Analysis:
 
-DB-Feature1 and 2: Group of Interest broken down by age and gender
-DB-Feature3: Top competitors with additional information on them
-DB-Feature4: Top models of the competition
-DB-Feature5: Map of Germany displaying the locations of the charging stations
-DB-Feature6: Top connector types of charging stations
+Based on our investigation, we provided three recommendations to our stakeholders. Additionally, we suggested conducting a deep-dive analysis of specific competitors and a car-feature analysis to further inform decision-making.
+
+KPI1: Car Companies
+KPI2: Registered Cars
+KPI3: Charging Stations
+
+Additional Dashboard Features (divided into two main themes):
+DB-Feature1: E-Car Manufacturer
+DB-Feature2: E-Car Models
+DB-Feature3: Target Group Section with numbers on - Gender / Ownership / Age Group
+DB-Feature4: Map of Germany - Location of charging stations / Ranked Cities
+DB-Feature5: Connector types of charging stations
 
 ## Data Source
 
@@ -32,43 +39,26 @@ The data used in this project comes from the following sources:
 - [Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen (Umwelt)](https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/Umwelt/n_umwelt_node.html)
 - [Kraftfahrt-Bundesamt - Fahrzeugzulassungen von Personenkraftwagen (Marke, Hersteller)](https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html)
 
-Select the dropdown to access the links:
+## Pitch Deck Source
 
-<details>
-<summary>Bundesnetzagentur - Ladesäulenregister</summary>
-    
-https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html
-    
-</details>
-
-<details>
-<summary>Kraftfahrt-Bundesamt - Neuzulassungen von Personenkraftwagen (Umwelt)</summary>
-
-https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/Umwelt/n_umwelt_node.html
-    
-</details>
-
-<details>
-<summary>Kraftfahrt-Bundesamt - Fahrzeugzulassungen von Personenkraftwagen (Marke, Hersteller)</summary>
-
-https://www.kba.de/DE/Statistik/Produktkatalog/produkte/Fahrzeuge/fz6_b_uebersicht.html
-    
-</details>
+- [Branding Style Guide](https://brandingstyleguides.com/guide/sony-make-believe/): SONY MAKE.BELIEVE. Design Guidelines (Template)
+- [Flaticon](https://www.flaticon.com/): Icons
 
 ## Data Cleaning
 
 We performed ETL (Extract, Transform, Load) to prepare the data for analysis using various tools and programming languages.
 
 - We extracted the data from public data sources and imported them into Excel/Sheets and Jupyter Notebook using Python.
-- We transformed the data by filtering the data, dropping irrelevant columns, replacing missing values with appropriate values using forward fill method, and converting the data types of some columns.
-- We loaded the cleaned data into our PostgreSQL server using Dbeaver.
+- We transformed the data by filtering, dropping irrelevant columns, replacing missing values with appropriate values using the forward fill method, and converting the data types of some columns.
+- We performed simple and advanced Exploratory Data Analysis (EDA) using Python libraries such as Pandas, Matplotlib, and Seaborn.
+- The cleaned data was loaded into our PostgreSQL server using DBeaver.
+- Further cleaning and creating of Primary/Foreign keys were performed in SQL.
 - We connected the cleaned DataFrames from PostgreSQL to Tableau for visualization.
-- In Tableau we connected the Data Sets with their unique identifiers using the entity-relationship "Many-to-Many (n:n)"
 
 Tools used:
 - Python (in Jupyter Notebook)
 - VSC
-- PostgreSQL (in Dbeaver)
+- PostgreSQL (in DBeaver)
 - Google Sheets/ Microsoft Excel
 - Tableau
 
