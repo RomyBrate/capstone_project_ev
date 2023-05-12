@@ -1,5 +1,3 @@
-# Driving into the Future: A Data-Driven Analysis for Strategic EV Product Development in Germany
-
 ![Title_and_Dashboard](images/GitHub-Readme-pic.jpg)
 
 
