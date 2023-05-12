@@ -5,7 +5,7 @@
 
 This project is a Capstone Project completed during participation in a Data Analytics Bootcamp by neuefische GmbH.
 
-We have created an imaginary business case where SONY, a multinational company headquartered in Tokyo, Japan, has announced its plans to enter the EV market in 2025. SONY has hired us as Data Analyst Consultants to work with their R&D Department. Our task is to research the development of the German EV market, identify key car-related figures to consider before launching a new e-car in Germany, and develop a KPI Dashboard.
+We have created an imaginary business case where SONY, a multinational company headquartered in Tokyo, Japan, has announced its plans to enter the EV market in 2025. SONY has hired us as Data Analyst Consultants to work with their R&D Department. Our task is to research the development of the German EV market, identify key car-related figures to consider before launching a new EV in Germany, and develop a KPI Dashboard.
 
 The research was conducted as follows:
 
