@@ -1,5 +1,8 @@
 # Driving into the Future: A Data-Driven Analysis for Strategic EV Product Development in Germany
 
+![Title_and_Dashboard](images/GitHub-Readme-pic.jpg)
+
+
 ## Introduction
 
 This project is a Capstone Project completed during participation in a Data Analytics Bootcamp by neuefische GmbH.
